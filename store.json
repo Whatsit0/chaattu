@@ -1,0 +1,1352 @@
+{
+  "users": {
+    "batman": {
+      "handle": "batman",
+      "gender": "Male",
+      "deviceToken": "dev_1794577781489_czewghqulbly9aodryt0vb",
+      "currentChat": "#lounge",
+      "ip": "::1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+      "device": "desktop",
+      "browser": "Chrome 157",
+      "os": "Windows 10",
+      "location": "Location Unavailable (Localhost)",
+      "joinedAt": 1794577795239,
+      "lastSeen": 1794635967950,
+      "deviceType": "Desktop",
+      "screen": "1680x1050",
+      "mobileModel": "PC/Mac",
+      "isBanned": false
+    },
+    "bob": {
+      "handle": "Bob",
+      "gender": "Male",
+      "deviceToken": "dev_1794584011625_1akckf34e8gnpe12y62q2m",
+      "currentChat": "#lounge",
+      "ip": "10.52.159.215",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Mobile Safari/537.36",
+      "device": "Mobile Device",
+      "browser": "Chrome 156.0.0.0",
+      "os": "Android 10",
+      "location": "Localhost / Private Network",
+      "joinedAt": 1794584025325,
+      "lastSeen": 1794640834678,
+      "deviceType": "Mobile",
+      "screen": "1080x2400 (360x800)",
+      "mobileModel": "Mobile Device",
+      "cpuCores": "8 Cores",
+      "ram": "N/A",
+      "hardwareSpecs": "8 Cores · N/A",
+      "networkType": "3G · 1.4 Mbps",
+      "connectionSpeed": "Slow"
+    },
+    "uyhb": {
+      "handle": "uyhb",
+      "gender": "Male",
+      "deviceToken": "dev_1794584904163_m7cmsg5iuakzoedo2wd89n",
+      "currentChat": "#lounge",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36 Edg/157.0.0.0",
+      "device": "desktop",
+      "browser": "Edge 157",
+      "os": "Windows 10",
+      "location": "Location Unavailable (Localhost)",
+      "joinedAt": 1794584915655,
+      "lastSeen": 1794640312980,
+      "deviceType": "Desktop",
+      "screen": "1536x864",
+      "mobileModel": "PC/Mac"
+    },
+    "hvy": {
+      "handle": "hvy",
+      "gender": "Male",
+      "deviceToken": "dev_1794586547225_04nw4f3wpu6t4fakmweyuih",
+      "currentChat": "#lounge",
+      "ip": "::1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Antigravity/2.31.2 Chrome/152.0.7977.167 Electron/44.9.1 Safari/537.36",
+      "device": "desktop",
+      "browser": "Electron 44",
+      "os": "Windows 10",
+      "location": "Location Unavailable (Localhost)",
+      "joinedAt": 1794586557786,
+      "lastSeen": 1794588094937
+    },
+    "bat": {
+      "handle": "bat",
+      "realName": null,
+      "gender": "Male",
+      "deviceToken": "dev_1794588114530_u056rn838dko9l8aum2voj",
+      "currentChat": "#lounge",
+      "ip": "::1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Antigravity/2.31.2 Chrome/152.0.7977.167 Electron/44.9.1 Safari/537.36",
+      "device": "desktop",
+      "browser": "Electron 44",
+      "os": "Windows 10",
+      "location": "Location Unavailable (Localhost)",
+      "joinedAt": 1794588414434,
+      "lastSeen": 1794634173004,
+      "deviceType": "Desktop",
+      "screen": "1536x864",
+      "mobileModel": "PC/Mac",
+      "isBanned": false
+    },
+    "incho": {
+      "handle": "Incho",
+      "realName": null,
+      "gender": "Male",
+      "deviceToken": "dev_1794588583224_91q5nwm64lrph6j9f1ulg",
+      "currentChat": "#lounge",
+      "ip": "10.52.159.215",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Mobile Safari/537.36",
+      "device": "mobile",
+      "browser": "Chrome 156",
+      "os": "Android 10",
+      "location": "Location Unavailable (Localhost)",
+      "joinedAt": 1794588595547,
+      "lastSeen": 1794592834457
+    },
+    "spd": {
+      "handle": "spd",
+      "realName": "aju",
+      "gender": "Female",
+      "deviceToken": "dev_1794589447202_92h65y80gc7vzry7xnoiin",
+      "currentChat": "#lounge",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+      "device": "desktop",
+      "browser": "Chrome 157",
+      "os": "Windows 10",
+      "location": "Location Unavailable (Localhost)",
+      "joinedAt": 1794589497035,
+      "lastSeen": 1794638148134,
+      "deviceType": "Desktop",
+      "screen": "1536x864",
+      "mobileModel": "PC/Mac"
+    },
+    "anu": {
+      "handle": "Anu",
+      "realName": null,
+      "gender": "Female",
+      "deviceToken": "dev_1794589816983_umymcjpb5epqq0xooa4519",
+      "currentChat": "#lounge",
+      "ip": "10.52.159.227",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Mobile Safari/537.36",
+      "device": "mobile",
+      "browser": "Chrome 156",
+      "os": "Android 10",
+      "location": "Location Unavailable (Localhost)",
+      "joinedAt": 1794589844952,
+      "lastSeen": 1794589942866
+    },
+    "jhvjhj": {
+      "handle": "jhvjhj",
+      "realName": null,
+      "gender": "Prefer not to say",
+      "deviceToken": "dev_1794634071565_dxv63d1owouqqhd0qkdhz",
+      "currentChat": "#lounge",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.7977.167 Safari/537.36 Antigravity/2.32.1",
+      "device": "desktop",
+      "browser": "Chrome 152",
+      "os": "Windows 10",
+      "location": "Location Unavailable (Localhost)",
+      "deviceType": "Desktop",
+      "screen": "1536x864",
+      "mobileModel": "PC/Mac",
+      "joinedAt": 1794634078894,
+      "lastSeen": 1794638072425
+    },
+    "telemetrytest": {
+      "handle": "TelemetryTest",
+      "realName": "Automated Bot",
+      "gender": "Prefer not to say",
+      "deviceToken": "dev_test_9999",
+      "currentChat": "#lounge",
+      "ip": "127.0.0.1",
+      "userAgent": "node-XMLHttpRequest",
+      "device": "Pixel 8 Pro",
+      "browser": "Chrome 125.0",
+      "os": "Android 15",
+      "location": "Localhost / Private Network",
+      "deviceType": "Mobile",
+      "screen": "1080x2400 (412x915)",
+      "mobileModel": "Pixel 8 Pro",
+      "cpuCores": "8 Cores",
+      "ram": "~8 GB RAM",
+      "hardwareSpecs": "8 Cores · ~8 GB RAM",
+      "networkType": "4G · 15 Mbps",
+      "connectionSpeed": "Fast",
+      "joinedAt": 1794640466213,
+      "lastSeen": 1794640511244
+    },
+    "jij": {
+      "handle": "jij",
+      "realName": null,
+      "gender": "Prefer not to say",
+      "deviceToken": "dev_1794588051091_6y0vrgt721vn96tw953s6q",
+      "currentChat": "#lounge",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.7977.167 Safari/537.36 Antigravity/2.32.1",
+      "device": "desktop",
+      "browser": "Chrome 152",
+      "os": "Windows 10",
+      "location": "Localhost / Private Network",
+      "deviceType": "Desktop",
+      "screen": "1920x1080 (1536x864)",
+      "mobileModel": "PC/Mac",
+      "cpuCores": "12 Cores",
+      "ram": "~16 GB RAM",
+      "hardwareSpecs": "12 Cores · ~16 GB RAM",
+      "networkType": "4G · 1.6 Mbps",
+      "connectionSpeed": "Slow",
+      "joinedAt": 1794640611825,
+      "lastSeen": 1794640768285
+    }
+  },
+  "devices": {
+    "dev_1794577781489_czewghqulbly9aodryt0vb": "batman",
+    "dev_1794584011625_1akckf34e8gnpe12y62q2m": "bob",
+    "dev_1794584904163_m7cmsg5iuakzoedo2wd89n": "uyhb",
+    "dev_1794586547225_04nw4f3wpu6t4fakmweyuih": "hvy",
+    "dev_1794588114530_u056rn838dko9l8aum2voj": "bat",
+    "dev_1794588583224_91q5nwm64lrph6j9f1ulg": "incho",
+    "dev_1794589447202_92h65y80gc7vzry7xnoiin": "spd",
+    "dev_1794589816983_umymcjpb5epqq0xooa4519": "anu",
+    "dev_1794634071565_dxv63d1owouqqhd0qkdhz": "jhvjhj",
+    "dev_test_9999": "telemetrytest",
+    "dev_1794588051091_6y0vrgt721vn96tw953s6q": "jij"
+  },
+  "messages": [
+    {
+      "id": "msg_1794577801565_3rcgfp7",
+      "sender": "batman",
+      "recipient": null,
+      "content": "jh",
+      "timestamp": 1794577801565,
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1794579779404_176uloi",
+      "sender": "batman",
+      "recipient": null,
+      "content": "[sticker:popcat:🐱:POP CAT]",
+      "timestamp": 1794579779404,
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1794584088183_mnzwskb",
+      "sender": "batman",
+      "recipient": "Bob",
+      "content": "ig",
+      "timestamp": 1794584088183,
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1794584098189_c0labi0",
+      "sender": "Bob",
+      "recipient": null,
+      "content": "Hii",
+      "timestamp": 1794584098189,
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1794584155925_qdiselj",
+      "sender": "Bob",
+      "recipient": "batman",
+      "content": "Hsnsvshjsvsvekieuwu",
+      "timestamp": 1794584155926,
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1794584348676_o6jt5ty",
+      "sender": "Bob",
+      "recipient": null,
+      "content": "Gjbvu",
+      "timestamp": 1794584348676,
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1794584351433_wuiyq7t",
+      "sender": "Bob",
+      "recipient": null,
+      "content": "H",
+      "timestamp": 1794584351433,
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1794584430015_yzrikul",
+      "sender": "batman",
+      "recipient": null,
+      "content": "jfyh",
+      "timestamp": 1794584430015,
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1794584974203_e7ynuan",
+      "sender": "batman",
+      "recipient": "uyhb",
+      "content": "kjbjh",
+      "timestamp": 1794584974203,
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1794586635534_4l6i477",
+      "sender": "uyhb",
+      "recipient": "hvy",
+      "content": "kj",
+      "timestamp": 1794586635534,
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1794586639466_lteuenv",
+      "sender": "hvy",
+      "recipient": "batman",
+      "content": "hgv",
+      "timestamp": 1794586639466,
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1794586652002_b50jrlg",
+      "sender": "uyhb",
+      "recipient": "hvy",
+      "content": "m",
+      "timestamp": 1794586652002,
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1794586699754_y3gt1ww",
+      "sender": "hvy",
+      "recipient": "uyhb",
+      "content": "bhbj",
+      "timestamp": 1794586699754,
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1794586718204_a8hzu6r",
+      "sender": "uyhb",
+      "recipient": "hvy",
+      "content": "mkmk",
+      "timestamp": 1794586718204,
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1794586989980_i2xrjfo",
+      "sender": "batman",
+      "recipient": "hvy",
+      "content": "ngvhg",
+      "timestamp": 1794586989980,
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1794632875687_tqcoy0a",
+      "sender": "bat",
+      "recipient": null,
+      "content": "hfhvh",
+      "timestamp": 1794632875687,
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1794632882790_m74ba0z",
+      "sender": "bat",
+      "recipient": null,
+      "content": "[genz:broke:💸:Broke:ZERO BALANCE]",
+      "timestamp": 1794632882790,
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1794634229609_1o5kbfz",
+      "sender": "Bob",
+      "recipient": null,
+      "content": "Jsisjsis",
+      "timestamp": 1794634229609,
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1794634254467_0g8itx5",
+      "sender": "Bob",
+      "recipient": null,
+      "content": "[genz:lol:💀:LOL:DEAD]",
+      "timestamp": 1794634254467,
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1794637216028_1rgv75z",
+      "sender": "jhvjhj",
+      "recipient": null,
+      "content": "jbj",
+      "replyTo": {
+        "id": "msg_1794632882790_m74ba0z",
+        "sender": "bat",
+        "content": "[genz:broke:💸:Broke:ZERO BALANCE]"
+      },
+      "timestamp": 1794637216028,
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1794640626390_89j36f5",
+      "sender": "jij",
+      "recipient": null,
+      "content": "hbjh",
+      "replyTo": {
+        "id": "msg_1794637216028_1rgv75z",
+        "sender": "jhvjhj",
+        "content": "jbj"
+      },
+      "timestamp": 1794640626390,
+      "isDeleted": false
+    }
+  ],
+  "bannedHandles": [],
+  "bannedDetails": {},
+  "kickedUsers": {
+    "bat": {
+      "handle": "bat",
+      "realName": null,
+      "ip": "::1",
+      "device": "desktop",
+      "reason": "Kicked by administrator",
+      "kickedAt": 1794634175733,
+      "timeoutUntil": 1794634475733
+    },
+    "batman": {
+      "handle": "batman",
+      "realName": null,
+      "ip": "::1",
+      "device": "desktop",
+      "reason": "Kicked by administrator",
+      "kickedAt": 1794634188478,
+      "timeoutUntil": 1794634488478
+    }
+  },
+  "adminLogs": [
+    {
+      "id": "log_1794640768212_mn083",
+      "action": "USER_CONNECT",
+      "target": "jij",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 152)",
+      "timestamp": 1794640768212
+    },
+    {
+      "id": "log_1794640761955_7kpub",
+      "action": "USER_CONNECT",
+      "target": "jij",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 152)",
+      "timestamp": 1794640761955
+    },
+    {
+      "id": "log_1794640734416_dxt7r",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 10.52.159.215 (Android 10 · Mobile Device · Chrome 156.0.0.0)",
+      "timestamp": 1794640734416
+    },
+    {
+      "id": "log_1794640734230_4k2xt",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 10.52.159.215 (Linux · desktop · Chrome 156)",
+      "timestamp": 1794640734230
+    },
+    {
+      "id": "log_1794640726319_0xu0w",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 10.52.159.215 (Linux · Tablet Device · Chrome 156.0.0.0)",
+      "timestamp": 1794640726319
+    },
+    {
+      "id": "log_1794640684099_z038y",
+      "action": "USER_CONNECT",
+      "target": "jij",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 152)",
+      "timestamp": 1794640684099
+    },
+    {
+      "id": "log_1794640684038_phvdj",
+      "action": "USER_CONNECT",
+      "target": "jij",
+      "details": "Connected from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 152.0.7977.167)",
+      "timestamp": 1794640684038
+    },
+    {
+      "id": "log_1794640672819_g6qpf",
+      "action": "USER_CONNECT",
+      "target": "jij",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 152)",
+      "timestamp": 1794640672819
+    },
+    {
+      "id": "log_1794640672807_kb28a",
+      "action": "USER_CONNECT",
+      "target": "jij",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 152)",
+      "timestamp": 1794640672807
+    },
+    {
+      "id": "log_1794640669269_zqx9o",
+      "action": "USER_CONNECT",
+      "target": "jij",
+      "details": "Connected from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 152.0.7977.167)",
+      "timestamp": 1794640669269
+    },
+    {
+      "id": "log_1794640619115_0y3x0",
+      "action": "USER_CONNECT",
+      "target": "jij",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 152)",
+      "timestamp": 1794640619115
+    },
+    {
+      "id": "log_1794640611824_ec56b",
+      "action": "USER_JOIN",
+      "target": "jij",
+      "details": "Registered device from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 152.0.7977.167)",
+      "timestamp": 1794640611824
+    },
+    {
+      "id": "log_1794640466211_nr3m3",
+      "action": "USER_JOIN",
+      "target": "TelemetryTest",
+      "details": "Registered device from IP: 127.0.0.1 (Android 15 · Pixel 8 Pro · Chrome 125.0)",
+      "timestamp": 1794640466211
+    },
+    {
+      "id": "log_1794640312782_4cgxk",
+      "action": "USER_CONNECT",
+      "target": "uyhb",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Edge 157)",
+      "timestamp": 1794640312782
+    },
+    {
+      "id": "log_1794639176552_0a17i",
+      "action": "USER_CONNECT",
+      "target": "uyhb",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Edge 157)",
+      "timestamp": 1794639176552
+    },
+    {
+      "id": "log_1794638114808_4ird5",
+      "action": "USER_CONNECT",
+      "target": "uyhb",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10/11 · PC/Mac · Edge 157)",
+      "timestamp": 1794638114808
+    },
+    {
+      "id": "log_1794638102976_3jtde",
+      "action": "USER_CONNECT",
+      "target": "spd",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794638102976
+    },
+    {
+      "id": "log_1794638097849_0j1y8",
+      "action": "USER_CONNECT",
+      "target": "spd",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794638097850
+    },
+    {
+      "id": "log_1794638097760_y0wz5",
+      "action": "USER_CONNECT",
+      "target": "spd",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794638097760
+    },
+    {
+      "id": "log_1794638097716_5mo8u",
+      "action": "USER_CONNECT",
+      "target": "spd",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794638097716
+    },
+    {
+      "id": "log_1794638096207_lxg4i",
+      "action": "USER_CONNECT",
+      "target": "spd",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794638096207
+    },
+    {
+      "id": "log_1794638096156_buxlk",
+      "action": "USER_CONNECT",
+      "target": "spd",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794638096156
+    },
+    {
+      "id": "log_1794638096064_fz9jk",
+      "action": "USER_CONNECT",
+      "target": "spd",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794638096064
+    },
+    {
+      "id": "log_1794638091123_o55gy",
+      "action": "USER_CONNECT",
+      "target": "spd",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794638091123
+    },
+    {
+      "id": "log_1794638091076_n2bq2",
+      "action": "USER_CONNECT",
+      "target": "spd",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794638091076
+    },
+    {
+      "id": "log_1794638072332_ebq8z",
+      "action": "USER_CONNECT",
+      "target": "jhvjhj",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 152)",
+      "timestamp": 1794638072332
+    },
+    {
+      "id": "log_1794636947155_sho2u",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 10.52.159.215 (Linux · Tablet Device · Chrome 156)",
+      "timestamp": 1794636947155
+    },
+    {
+      "id": "log_1794636907731_wet6w",
+      "action": "USER_CONNECT",
+      "target": "jhvjhj",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 152)",
+      "timestamp": 1794636907731
+    },
+    {
+      "id": "log_1794636899412_62757",
+      "action": "USER_CONNECT",
+      "target": "jhvjhj",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 152)",
+      "timestamp": 1794636899413
+    },
+    {
+      "id": "log_1794636893390_249h5",
+      "action": "USER_CONNECT",
+      "target": "jhvjhj",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10/11 · PC/Mac · Chrome 152)",
+      "timestamp": 1794636893390
+    },
+    {
+      "id": "log_1794635967541_opywx",
+      "action": "USER_CONNECT",
+      "target": "spd",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794635967541
+    },
+    {
+      "id": "log_1794635967490_9j5x0",
+      "action": "USER_CONNECT",
+      "target": "spd",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794635967490
+    },
+    {
+      "id": "log_1794635967482_rtkvx",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794635967482
+    },
+    {
+      "id": "log_1794635793387_hhe7j",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794635793387
+    },
+    {
+      "id": "log_1794635793333_tu6ae",
+      "action": "USER_CONNECT",
+      "target": "spd",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794635793333
+    },
+    {
+      "id": "log_1794635773498_47xsg",
+      "action": "USER_CONNECT",
+      "target": "jhvjhj",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 152)",
+      "timestamp": 1794635773498
+    },
+    {
+      "id": "log_1794635681473_z20o3",
+      "action": "USER_CONNECT",
+      "target": "jhvjhj",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 152)",
+      "timestamp": 1794635681473
+    },
+    {
+      "id": "log_1794635604745_6i8h7",
+      "action": "USER_CONNECT",
+      "target": "jhvjhj",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 152)",
+      "timestamp": 1794635604745
+    },
+    {
+      "id": "log_1794635603204_2c4fi",
+      "action": "USER_CONNECT",
+      "target": "jhvjhj",
+      "details": "Connected from IP: ::1 (Windows 10/11 · PC/Mac · Chrome 152)",
+      "timestamp": 1794635603204
+    },
+    {
+      "id": "log_1794635589575_3ml7v",
+      "action": "USER_CONNECT",
+      "target": "spd",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794635589575
+    },
+    {
+      "id": "log_1794635589553_rk66p",
+      "action": "USER_CONNECT",
+      "target": "spd",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794635589553
+    },
+    {
+      "id": "log_1794635334284_6hevz",
+      "action": "USER_CONNECT",
+      "target": "spd",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794635334284
+    },
+    {
+      "id": "log_1794635332861_r5j15",
+      "action": "USER_CONNECT",
+      "target": "spd",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794635332861
+    },
+    {
+      "id": "log_1794635331325_3zdbi",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794635331325
+    },
+    {
+      "id": "log_1794635331296_jb5ge",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794635331296
+    },
+    {
+      "id": "log_1794635331287_83lwg",
+      "action": "USER_CONNECT",
+      "target": "spd",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794635331287
+    },
+    {
+      "id": "log_1794635331262_tyeif",
+      "action": "USER_CONNECT",
+      "target": "spd",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794635331262
+    },
+    {
+      "id": "log_1794635329708_z8cd5",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794635329708
+    },
+    {
+      "id": "log_1794635315415_9hlid",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794635315415
+    },
+    {
+      "id": "log_1794635315408_acrug",
+      "action": "USER_CONNECT",
+      "target": "spd",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794635315408
+    },
+    {
+      "id": "log_1794635315401_973zp",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794635315401
+    },
+    {
+      "id": "log_1794635315383_un96q",
+      "action": "USER_CONNECT",
+      "target": "spd",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794635315383
+    },
+    {
+      "id": "log_1794635314935_h1mmq",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794635314935
+    },
+    {
+      "id": "log_1794635287827_iufv0",
+      "action": "USER_CONNECT",
+      "target": "spd",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794635287827
+    },
+    {
+      "id": "log_1794635273438_1sa3h",
+      "action": "USER_CONNECT",
+      "target": "spd",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794635273438
+    },
+    {
+      "id": "log_1794635273403_45x0d",
+      "action": "USER_CONNECT",
+      "target": "spd",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794635273403
+    },
+    {
+      "id": "log_1794635270397_pq7zs",
+      "action": "USER_CONNECT",
+      "target": "spd",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794635270397
+    },
+    {
+      "id": "log_1794635270354_l0noh",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794635270354
+    },
+    {
+      "id": "log_1794635270349_dcfwk",
+      "action": "USER_CONNECT",
+      "target": "spd",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794635270349
+    },
+    {
+      "id": "log_1794635269808_i0a4v",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794635269808
+    },
+    {
+      "id": "log_1794635269744_p96bt",
+      "action": "USER_CONNECT",
+      "target": "spd",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794635269744
+    },
+    {
+      "id": "log_1794635109243_epa46",
+      "action": "UNBAN_USER",
+      "target": "batman",
+      "details": "Administrative unban lifted",
+      "timestamp": 1794635109243
+    },
+    {
+      "id": "log_1794635107877_vq1fj",
+      "action": "UNKICK_USER",
+      "target": "Incho",
+      "details": "Kick timeout lifted early",
+      "timestamp": 1794635107877
+    },
+    {
+      "id": "log_1794635103794_0rhg0",
+      "action": "UNBAN_USER",
+      "target": "bat",
+      "details": "Administrative unban lifted",
+      "timestamp": 1794635103794
+    },
+    {
+      "id": "log_1794635090621_vmon7",
+      "action": "USER_CONNECT",
+      "target": "spd",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794635090621
+    },
+    {
+      "id": "log_1794635090612_tpp0d",
+      "action": "KICK_USER",
+      "target": "Incho",
+      "details": "Kicked with 300s cooldown (IP: 10.52.159.215)",
+      "timestamp": 1794635090613
+    },
+    {
+      "id": "log_1794634975695_xqszm",
+      "action": "USER_CONNECT",
+      "target": "spd",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794634975695
+    },
+    {
+      "id": "log_1794634960475_udpbh",
+      "action": "USER_CONNECT",
+      "target": "spd",
+      "details": "Connected from IP: ::1 (Windows 10/11 · PC/Mac · Chrome 157)",
+      "timestamp": 1794634960475
+    },
+    {
+      "id": "log_1794634951035_ourbw",
+      "action": "USER_CONNECT",
+      "target": "spd",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794634951035
+    },
+    {
+      "id": "log_1794634951027_kgb8u",
+      "action": "USER_CONNECT",
+      "target": "spd",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794634951027
+    },
+    {
+      "id": "log_1794634659353_4jqlf",
+      "action": "USER_CONNECT",
+      "target": "spd",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794634659353
+    },
+    {
+      "id": "log_1794634641947_gczfo",
+      "action": "USER_CONNECT",
+      "target": "spd",
+      "details": "Connected from IP: ::1 (Windows 10/11 · PC/Mac · Chrome 157)",
+      "timestamp": 1794634641947
+    },
+    {
+      "id": "log_1794634636644_7cg5w",
+      "action": "USER_CONNECT",
+      "target": "spd",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794634636645
+    },
+    {
+      "id": "log_1794634540754_iud65",
+      "action": "USER_CONNECT",
+      "target": "spd",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794634540754
+    },
+    {
+      "id": "log_1794634442909_hk6ls",
+      "action": "USER_CONNECT",
+      "target": "spd",
+      "details": "Connected from IP: ::1 (Windows 10/11 · PC/Mac · Chrome 157)",
+      "timestamp": 1794634442909
+    },
+    {
+      "id": "log_1794634377403_8gaa3",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 10.52.159.215 (Linux · desktop · Chrome 156)",
+      "timestamp": 1794634377403
+    },
+    {
+      "id": "log_1794634377313_v00px",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 10.52.159.215 (Linux · desktop · Chrome 156)",
+      "timestamp": 1794634377313
+    },
+    {
+      "id": "log_1794634327353_glh2c",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 10.52.159.215 (Linux · desktop · Chrome 156)",
+      "timestamp": 1794634327353
+    },
+    {
+      "id": "log_1794634325711_np10f",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 10.52.159.215 (Linux · Tablet Device · Chrome 156)",
+      "timestamp": 1794634325711
+    },
+    {
+      "id": "log_1794634323117_upg16",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 10.52.159.215 (Android 10 · mobile · Chrome 156)",
+      "timestamp": 1794634323117
+    },
+    {
+      "id": "log_1794634314957_u6di3",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 10.52.159.215 (Android 10 · Mobile Device · Chrome 156)",
+      "timestamp": 1794634314957
+    },
+    {
+      "id": "log_1794634314807_n6f78",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 10.52.159.215 (Linux · desktop · Chrome 156)",
+      "timestamp": 1794634314807
+    },
+    {
+      "id": "log_1794634295546_xo359",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 10.52.159.215 (Linux · Tablet Device · Chrome 156)",
+      "timestamp": 1794634295546
+    },
+    {
+      "id": "log_1794634295395_z6y7o",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 10.52.159.215 (Android 10 · mobile · Chrome 156)",
+      "timestamp": 1794634295395
+    },
+    {
+      "id": "log_1794634284561_isstd",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 10.52.159.215 (Android 10 · mobile · Chrome 156)",
+      "timestamp": 1794634284561
+    },
+    {
+      "id": "log_1794634280805_rtfil",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 10.52.159.215 (Android 10 · Mobile Device · Chrome 156)",
+      "timestamp": 1794634280805
+    },
+    {
+      "id": "log_1794634280668_6fzu6",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 10.52.159.215 (Linux · desktop · Chrome 156)",
+      "timestamp": 1794634280668
+    },
+    {
+      "id": "log_1794634253331_gdp6z",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 10.52.159.215 (Linux · desktop · Chrome 156)",
+      "timestamp": 1794634253331
+    },
+    {
+      "id": "log_1794634222404_hm1v9",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 10.52.159.215 (Linux · Tablet Device · Chrome 156)",
+      "timestamp": 1794634222404
+    },
+    {
+      "id": "log_1794634222280_iv93t",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 10.52.159.215 (Android 10 · mobile · Chrome 156)",
+      "timestamp": 1794634222280
+    },
+    {
+      "id": "log_1794634219613_pvcf4",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 10.52.159.215 (Android 10 · Mobile Device · Chrome 156)",
+      "timestamp": 1794634219613
+    },
+    {
+      "id": "log_1794634219420_m6ivw",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 10.52.159.215 (Linux · desktop · Chrome 156)",
+      "timestamp": 1794634219420
+    },
+    {
+      "id": "log_1794634215105_x8a5s",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 10.52.159.215 (Linux · Tablet Device · Chrome 156)",
+      "timestamp": 1794634215105
+    },
+    {
+      "id": "log_1794634188478_6pu8h",
+      "action": "KICK_USER",
+      "target": "batman",
+      "details": "Kicked with 300s cooldown (IP: ::1)",
+      "timestamp": 1794634188478
+    },
+    {
+      "id": "log_1794634184261_hm93f",
+      "action": "BAN_USER",
+      "target": "batman",
+      "details": "Banned user from IP ::1: Violating Community Standards",
+      "timestamp": 1794634184261
+    },
+    {
+      "id": "log_1794634175745_nl1gn",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794634175745
+    },
+    {
+      "id": "log_1794634175733_93jax",
+      "action": "KICK_USER",
+      "target": "bat",
+      "details": "Kicked with 300s cooldown (IP: ::1)",
+      "timestamp": 1794634175733
+    },
+    {
+      "id": "log_1794634173010_1hco1",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794634173010
+    },
+    {
+      "id": "log_1794634173001_jgsxs",
+      "action": "BAN_USER",
+      "target": "bat",
+      "details": "Banned user from IP ::1: Violating Community Standards",
+      "timestamp": 1794634173001
+    },
+    {
+      "id": "log_1794634167712_q9tgt",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794634167712
+    },
+    {
+      "id": "log_1794634167687_8q7ot",
+      "action": "BAN_USER",
+      "target": "bat",
+      "details": "Banned user from IP ::1: Violating Community Standards",
+      "timestamp": 1794634167687
+    },
+    {
+      "id": "log_1794634130085_wm3pv",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: ::1 (Windows 10/11 · PC/Mac · Chrome 157)",
+      "timestamp": 1794634130085
+    },
+    {
+      "id": "log_1794634125516_hfmts",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794634125516
+    },
+    {
+      "id": "log_1794634125488_u33g3",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794634125488
+    },
+    {
+      "id": "log_1794634106118_dnxsj",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: ::1 (Windows 10/11 · PC/Mac · Chrome 157)",
+      "timestamp": 1794634106118
+    },
+    {
+      "id": "log_1794634105833_5fwt3",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794634105833
+    },
+    {
+      "id": "log_1794634105665_1pi2o",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794634105665
+    },
+    {
+      "id": "log_1794634102242_pt2ng",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794634102242
+    },
+    {
+      "id": "log_1794634102233_b8wmn",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794634102233
+    },
+    {
+      "id": "log_1794634102226_yj4a0",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794634102226
+    },
+    {
+      "id": "log_1794634102156_cybky",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794634102156
+    },
+    {
+      "id": "log_1794634090877_19zxc",
+      "action": "USER_CONNECT",
+      "target": "jhvjhj",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 152)",
+      "timestamp": 1794634090877
+    },
+    {
+      "id": "log_1794634089619_zg3r7",
+      "action": "USER_CONNECT",
+      "target": "jhvjhj",
+      "details": "Connected from IP: ::1 (Windows 10/11 · PC/Mac · Chrome 152)",
+      "timestamp": 1794634089619
+    },
+    {
+      "id": "log_1794634078889_eqdlg",
+      "action": "USER_JOIN",
+      "target": "jhvjhj",
+      "details": "Registered device from IP: ::1 (Windows 10/11 · PC/Mac · Chrome 152)",
+      "timestamp": 1794634078889
+    },
+    {
+      "id": "log_1794632908549_cdftd",
+      "action": "USER_CONNECT",
+      "target": "bat",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Electron 44)",
+      "timestamp": 1794632908549
+    },
+    {
+      "id": "log_1794632905929_jnzqe",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794632905929
+    },
+    {
+      "id": "log_1794632905865_kbe89",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794632905865
+    },
+    {
+      "id": "log_1794632869861_nle86",
+      "action": "USER_CONNECT",
+      "target": "bat",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Electron 44)",
+      "timestamp": 1794632869862
+    },
+    {
+      "id": "log_1794632859315_knu4d",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794632859315
+    },
+    {
+      "id": "log_1794632859291_7duc3",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794632859291
+    },
+    {
+      "id": "log_1794632682994_uj2tb",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794632682994
+    },
+    {
+      "id": "log_1794632672251_en47v",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794632672251
+    },
+    {
+      "id": "log_1794632672201_bidzj",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794632672201
+    },
+    {
+      "id": "log_1794632656330_uojfi",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: ::1 (Windows 10/11 · PC/Mac · Chrome 157)",
+      "timestamp": 1794632656330
+    },
+    {
+      "id": "log_1794632656177_j33u3",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Chrome 157)",
+      "timestamp": 1794632656178
+    },
+    {
+      "id": "log_1794631639982_ioint",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: ::1 (Windows 10/11 · PC/Mac · Chrome 157)",
+      "timestamp": 1794631639982
+    },
+    {
+      "id": "log_1794631633678_ozjw4",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: ::1 (Windows 10/11 · PC/Mac · Chrome 157)",
+      "timestamp": 1794631633678
+    },
+    {
+      "id": "log_1794631585790_xe0gh",
+      "action": "USER_CONNECT",
+      "target": "bat",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Electron 44)",
+      "timestamp": 1794631585790
+    },
+    {
+      "id": "log_1794631570562_avjhg",
+      "action": "USER_CONNECT",
+      "target": "bat",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Electron 44)",
+      "timestamp": 1794631570562
+    },
+    {
+      "id": "log_1794631570549_z1zw5",
+      "action": "USER_CONNECT",
+      "target": "bat",
+      "details": "Connected from IP: ::1 (Windows 10 · desktop · Electron 44)",
+      "timestamp": 1794631570549
+    },
+    {
+      "id": "log_1794631570367_6136r",
+      "action": "USER_CONNECT",
+      "target": "bat",
+      "details": "Connected from IP: ::1 (Windows 10/11 · PC/Mac · Chrome 152)",
+      "timestamp": 1794631570367
+    }
+  ],
+  "feedback": [
+    {
+      "id": "fb_1794583285890_0r947",
+      "sender": "batman",
+      "type": "Safety Concern",
+      "message": "iuhiuh",
+      "timestamp": 1794583285890
+    }
+  ],
+  "blocks": {
+    "hvy": []
+  }
+}

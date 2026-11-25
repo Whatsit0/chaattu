@@ -1,0 +1,35 @@
+{
+  "name": "chaattiko",
+  "version": "1.0.0",
+  "description": "Chaattiko - Real-time, device-locked anonymous college campus chat with 24h TTL and paired admin threads",
+  "main": "server/index.js",
+  "scripts": {
+    "install:server": "npm --prefix server install",
+    "install:client": "npm --prefix client install",
+    "install:all": "npm install && npm run install:server && npm run install:client",
+    "build:client": "npm --prefix client run build",
+    "build": "npm run install:all && npm run build:client",
+    "start": "node server/index.js",
+    "server": "npm --prefix server run dev",
+    "client": "npm --prefix client run dev",
+    "dev:server": "node server/index.js",
+    "dev:client": "npm --prefix client run dev"
+  },
+  "keywords": [
+    "chaattiko",
+    "realtime",
+    "chat",
+    "socketio",
+    "ephemeral",
+    "dark-mode",
+    "render",
+    "device-locked"
+  ],
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1",
+    "ua-parser-js": "^1.0.39"
+  }
+}

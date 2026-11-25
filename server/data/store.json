@@ -1,0 +1,4456 @@
+{
+  "users": {
+    "batman": {
+      "handle": "batman",
+      "gender": "Male",
+      "deviceToken": "dev_1794577781489_czewghqulbly9aodryt0vb",
+      "currentChat": "#lounge",
+      "ip": "127.0.0.1",
+      "userAgent": "Unknown",
+      "device": "desktop",
+      "browser": "Unknown",
+      "os": "Unknown",
+      "location": "Localhost / Private Network",
+      "joinedAt": 1794577795239,
+      "lastSeen": 1795603842669,
+      "deviceType": "Desktop",
+      "screen": "1600x1000 (1280x800)",
+      "mobileModel": "PC/Mac",
+      "isBanned": false,
+      "cpuCores": "5 Cores",
+      "ram": "~8 GB RAM",
+      "hardwareSpecs": "5 Cores · ~8 GB RAM",
+      "networkType": "Unknown Network",
+      "connectionSpeed": "Fast",
+      "referredUsers": [
+        "athul",
+        "arjun",
+        "adhi"
+      ],
+      "referralCount": 3,
+      "tier": "bronze",
+      "avatar": "char_ninja",
+      "lastLoginAt": 1795603842669,
+      "passwordHash": "1a194fb91d79c15b37e8e77c06ddff7e6cbb6835a8a61ff4655439c09ffb79ee35ae726c902ed72af2349d755d876d6dcb27a3591ca4fb13eb3b83c60ab0c9dc",
+      "passwordSalt": "300f09b7c47663dce65543377e38c81a"
+    },
+    "bob": {
+      "handle": "Bob",
+      "gender": "Male",
+      "deviceToken": "dev_1794584011625_1akckf34e8gnpe12y62q2m",
+      "currentChat": "#lounge",
+      "ip": "127.0.0.1",
+      "userAgent": "Unknown",
+      "device": "desktop",
+      "browser": "Unknown",
+      "os": "Unknown",
+      "location": "Localhost / Private Network",
+      "joinedAt": 1794584025325,
+      "lastSeen": 1795539543333,
+      "deviceType": "Mobile",
+      "screen": "1080x2400 (360x800)",
+      "mobileModel": "Mobile Device",
+      "cpuCores": "8 Cores",
+      "ram": "N/A",
+      "hardwareSpecs": "8 Cores · N/A",
+      "networkType": "4G · 1.65 Mbps",
+      "connectionSpeed": "Slow",
+      "lastLoginAt": 1795539496980,
+      "avatar": "anim_puppy",
+      "passwordHash": "526f94c90796ae3ab3dc5f5d08716d4d39a0e539b2fe153dc4eaf3a9eea984eaf8a8504d76a2f3ec71b23aa83cb53f5a3f891771ebe087937082bc4041b7add3",
+      "passwordSalt": "0951eeeaa9ee30121d7cac8f075c3fa2"
+    },
+    "uyhb": {
+      "handle": "uyhb",
+      "gender": "Male",
+      "deviceToken": "dev_1794584904163_m7cmsg5iuakzoedo2wd89n",
+      "currentChat": "#lounge",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36 Edg/157.0.0.0",
+      "device": "desktop",
+      "browser": "Edge 157",
+      "os": "Windows 10",
+      "location": "Location Unavailable (Localhost)",
+      "joinedAt": 1794584915655,
+      "lastSeen": 1794640312980,
+      "deviceType": "Desktop",
+      "screen": "1536x864",
+      "mobileModel": "PC/Mac"
+    },
+    "hvy": {
+      "handle": "hvy",
+      "gender": "Male",
+      "deviceToken": "dev_1794586547225_04nw4f3wpu6t4fakmweyuih",
+      "currentChat": "#lounge",
+      "ip": "::1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Antigravity/2.31.2 Chrome/152.0.7977.167 Electron/44.9.1 Safari/537.36",
+      "device": "desktop",
+      "browser": "Electron 44",
+      "os": "Windows 10",
+      "location": "Location Unavailable (Localhost)",
+      "joinedAt": 1794586557786,
+      "lastSeen": 1794588094937
+    },
+    "bat": {
+      "handle": "bat",
+      "realName": null,
+      "gender": "Male",
+      "deviceToken": "dev_1794588114530_u056rn838dko9l8aum2voj",
+      "currentChat": "#lounge",
+      "ip": "::1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Antigravity/2.31.2 Chrome/152.0.7977.167 Electron/44.9.1 Safari/537.36",
+      "device": "desktop",
+      "browser": "Electron 44",
+      "os": "Windows 10",
+      "location": "Location Unavailable (Localhost)",
+      "joinedAt": 1794588414434,
+      "lastSeen": 1794634173004,
+      "deviceType": "Desktop",
+      "screen": "1536x864",
+      "mobileModel": "PC/Mac",
+      "isBanned": false
+    },
+    "incho": {
+      "handle": "Incho",
+      "realName": null,
+      "gender": "Male",
+      "deviceToken": "dev_1794588583224_91q5nwm64lrph6j9f1ulg",
+      "currentChat": "#lounge",
+      "ip": "10.52.159.215",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Mobile Safari/537.36",
+      "device": "mobile",
+      "browser": "Chrome 156",
+      "os": "Android 10",
+      "location": "Location Unavailable (Localhost)",
+      "joinedAt": 1794588595547,
+      "lastSeen": 1794592834457
+    },
+    "spd": {
+      "handle": "spd",
+      "realName": "aju",
+      "gender": "Female",
+      "deviceToken": "dev_1794589447202_92h65y80gc7vzry7xnoiin",
+      "currentChat": "#lounge",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+      "device": "desktop",
+      "browser": "Chrome 157",
+      "os": "Windows 10",
+      "location": "Location Unavailable (Localhost)",
+      "joinedAt": 1794589497035,
+      "lastSeen": 1794638148134,
+      "deviceType": "Desktop",
+      "screen": "1536x864",
+      "mobileModel": "PC/Mac"
+    },
+    "anu": {
+      "handle": "Anu",
+      "realName": null,
+      "gender": "Female",
+      "deviceToken": "dev_1794589816983_umymcjpb5epqq0xooa4519",
+      "currentChat": "#lounge",
+      "ip": "10.52.159.227",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Mobile Safari/537.36",
+      "device": "mobile",
+      "browser": "Chrome 156",
+      "os": "Android 10",
+      "location": "Location Unavailable (Localhost)",
+      "joinedAt": 1794589844952,
+      "lastSeen": 1794589942866
+    },
+    "jhvjhj": {
+      "handle": "jhvjhj",
+      "realName": null,
+      "gender": "Prefer not to say",
+      "deviceToken": "dev_1794634071565_dxv63d1owouqqhd0qkdhz",
+      "currentChat": "#lounge",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.7977.167 Safari/537.36 Antigravity/2.32.1",
+      "device": "desktop",
+      "browser": "Chrome 152",
+      "os": "Windows 10",
+      "location": "Location Unavailable (Localhost)",
+      "deviceType": "Desktop",
+      "screen": "1536x864",
+      "mobileModel": "PC/Mac",
+      "joinedAt": 1794634078894,
+      "lastSeen": 1794638072425
+    },
+    "jij": {
+      "handle": "jij",
+      "realName": null,
+      "gender": "Prefer not to say",
+      "deviceToken": "dev_1794588051091_6y0vrgt721vn96tw953s6q",
+      "currentChat": "#lounge",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.7977.167 Safari/537.36 Antigravity/2.32.1",
+      "device": "desktop",
+      "browser": "Chrome 152",
+      "os": "Windows 10",
+      "location": "Localhost / Private Network",
+      "deviceType": "Desktop",
+      "screen": "1920x1080 (1536x864)",
+      "mobileModel": "PC/Mac",
+      "cpuCores": "12 Cores",
+      "ram": "~16 GB RAM",
+      "hardwareSpecs": "12 Cores · ~16 GB RAM",
+      "networkType": "4G · 1.6 Mbps",
+      "connectionSpeed": "Slow",
+      "joinedAt": 1794640611825,
+      "lastSeen": 1795345657702
+    },
+    "hii": {
+      "handle": "Hii",
+      "realName": "Levin",
+      "gender": "Male",
+      "deviceToken": "dev_1795340148309_e910rntpljp3tm0k1y1b",
+      "currentChat": "#lounge",
+      "ip": "10.52.159.215",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36",
+      "device": "mobile",
+      "browser": "Chrome 157",
+      "os": "Android 10",
+      "location": "Localhost / Private Network",
+      "deviceType": "Mobile",
+      "screen": "1080x2400 (360x800)",
+      "mobileModel": "Mobile Device",
+      "cpuCores": "8 Cores",
+      "ram": "N/A",
+      "hardwareSpecs": "8 Cores · N/A",
+      "networkType": "3G · 1.3 Mbps",
+      "connectionSpeed": "Slow",
+      "joinedAt": 1795340224210,
+      "lastSeen": 1795341152849
+    },
+    "anamika": {
+      "handle": "Anamika",
+      "realName": "Levin",
+      "gender": "Female",
+      "deviceToken": "dev_1795358394101_piym8y6b8npny0xrqh8l",
+      "currentChat": "batman",
+      "ip": "10.52.159.215",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36",
+      "device": "mobile",
+      "browser": "Chrome 157",
+      "os": "Android 10",
+      "location": "Localhost / Private Network",
+      "deviceType": "Mobile",
+      "screen": "1080x2400 (360x800)",
+      "mobileModel": "Mobile Device",
+      "cpuCores": "8 Cores",
+      "ram": "N/A",
+      "hardwareSpecs": "8 Cores · N/A",
+      "networkType": "4G · 9.6 Mbps",
+      "connectionSpeed": "Fast",
+      "joinedAt": 1795358445554,
+      "lastSeen": 1795375629705,
+      "avatar": "nature_waterfall",
+      "lastLoginAt": 1795375489490
+    },
+    "athul": {
+      "referredBy": "batman",
+      "referredUsers": [],
+      "referralCount": 0,
+      "handle": "athul",
+      "realName": "levin",
+      "gender": "Male",
+      "deviceToken": "dev_1795358282271_s30lc7phsdhkwsu4chg71c",
+      "currentChat": "#lounge",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36",
+      "device": "desktop",
+      "browser": "Chrome 158",
+      "os": "Windows 10",
+      "location": "Localhost / Private Network",
+      "deviceType": "Desktop",
+      "screen": "2100x1313 (1680x1050)",
+      "mobileModel": "PC/Mac",
+      "cpuCores": "7 Cores",
+      "ram": "~4 GB RAM",
+      "hardwareSpecs": "7 Cores · ~4 GB RAM",
+      "networkType": "Unknown Network",
+      "connectionSpeed": "Fast",
+      "joinedAt": 1795363975822,
+      "lastSeen": 1795364043090,
+      "tier": null
+    },
+    "arjun": {
+      "referredBy": "batman",
+      "referredUsers": [],
+      "referralCount": 0,
+      "handle": "arjun",
+      "realName": "levin",
+      "gender": "Male",
+      "deviceToken": "dev_1795364005638_wx2x2ubzfahqaea2bjwf1h",
+      "currentChat": "#lounge",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36",
+      "device": "desktop",
+      "browser": "Chrome 158",
+      "os": "Windows 10",
+      "location": "Localhost / Private Network",
+      "deviceType": "Desktop",
+      "screen": "2100x1313 (1680x1050)",
+      "mobileModel": "PC/Mac",
+      "cpuCores": "9 Cores",
+      "ram": "~16 GB RAM",
+      "hardwareSpecs": "9 Cores · ~16 GB RAM",
+      "networkType": "Unknown Network",
+      "connectionSpeed": "Fast",
+      "joinedAt": 1795364018166,
+      "lastSeen": 1795364080744,
+      "tier": null
+    },
+    "adhi": {
+      "referredBy": "batman",
+      "referredUsers": [],
+      "referralCount": 0,
+      "handle": "adhi",
+      "realName": "levin",
+      "gender": "Male",
+      "deviceToken": "dev_1795364040438_crtmw38zvrag84znhrshb6",
+      "currentChat": "#lounge",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36",
+      "device": "desktop",
+      "browser": "Chrome 158",
+      "os": "Windows 10",
+      "location": "Localhost / Private Network",
+      "deviceType": "Desktop",
+      "screen": "2100x1313 (1680x1050)",
+      "mobileModel": "PC/Mac",
+      "cpuCores": "10 Cores",
+      "ram": "~4 GB RAM",
+      "hardwareSpecs": "10 Cores · ~4 GB RAM",
+      "networkType": "Unknown Network",
+      "connectionSpeed": "Fast",
+      "joinedAt": 1795364054176,
+      "lastSeen": 1795368400976,
+      "tier": null
+    },
+    "neo_tester_164": {
+      "referredBy": null,
+      "referredUsers": [],
+      "referralCount": 0,
+      "avatar": null,
+      "termsAcceptedAt": 1795498583634,
+      "handle": "neo_tester_164",
+      "realName": "Thomas Anderson",
+      "gender": "Male",
+      "agreedTerms": true,
+      "deviceToken": "dev_tok_k2qc3ktfh3i",
+      "currentChat": "#lounge",
+      "ip": "127.0.0.1",
+      "userAgent": "Unknown",
+      "device": "desktop",
+      "browser": "Unknown",
+      "os": "Unknown",
+      "location": "Localhost / Private Network",
+      "joinedAt": 1795498583634,
+      "lastLoginAt": 1795498583795,
+      "passwordHash": "ed0a942289481b1ae39d01e881ba7f99b37f4ee35a4e0764e1bc1fd12f85ae6aeddc2be33b20529b906a6a3369d59811398be29e0bf5b2cc11556b7851c742d2",
+      "passwordSalt": "b9f718f484deec3d637f8b871eae9868",
+      "lastSeen": 1795498583807
+    },
+    "raju": {
+      "referredBy": null,
+      "referredUsers": [],
+      "referralCount": 0,
+      "avatar": "anim_parrot_emerald",
+      "termsAcceptedAt": 1795503710744,
+      "handle": "RAJU",
+      "realName": "LEVIN",
+      "gender": "Male",
+      "agreedTerms": true,
+      "deviceToken": "dev_1795503681722_6bq2enln7t7zbgcvp6o4q",
+      "currentChat": "batman",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36",
+      "device": "desktop",
+      "browser": "Chrome 158",
+      "os": "Windows 10",
+      "location": "Localhost / Private Network",
+      "deviceType": "Desktop",
+      "screen": "2100x1313 (1680x1050)",
+      "mobileModel": "PC/Mac",
+      "cpuCores": "8 Cores",
+      "ram": "~8 GB RAM",
+      "hardwareSpecs": "8 Cores · ~8 GB RAM",
+      "networkType": "Unknown Network",
+      "connectionSpeed": "Fast",
+      "joinedAt": 1795503710744,
+      "lastLoginAt": 1795534153123,
+      "passwordHash": "e6e2f45f7089b74ef6593a374d53d08f451e43cc76e5c33a4e36748452af6f7df02684114f51bb98d26a02c594762f49591eaef268b30d1ccbd43dc4e0cf7771",
+      "passwordSalt": "d3a41c254f9729834ea4b98faadead6e",
+      "lastSeen": 1795537299201
+    },
+    "jijij": {
+      "referredBy": null,
+      "referredUsers": [],
+      "referralCount": 0,
+      "avatar": null,
+      "termsAcceptedAt": 1795541378760,
+      "handle": "jijij",
+      "realName": null,
+      "gender": "Prefer not to say",
+      "agreedTerms": true,
+      "deviceToken": "dev_1795541353481_4xh2z3nn2l30hih72oyaket",
+      "currentChat": "#lounge",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.7977.167 Safari/537.36 Antigravity/2.34.0",
+      "device": "desktop",
+      "browser": "Chrome 152",
+      "os": "Windows 10",
+      "location": "Localhost / Private Network",
+      "deviceType": "Desktop",
+      "screen": "1920x1080 (1536x864)",
+      "mobileModel": "PC/Mac",
+      "cpuCores": "12 Cores",
+      "ram": "~16 GB RAM",
+      "hardwareSpecs": "12 Cores · ~16 GB RAM",
+      "networkType": "3G · 1.35 Mbps",
+      "connectionSpeed": "Slow",
+      "joinedAt": 1795541378760,
+      "lastLoginAt": 1795541662964,
+      "passwordHash": "ae96516f95d925ccd9139b75444f06c735ccbceac2518a68cdae518fdd9bbedfb47286b326b319cd3a4fff3dc1fa470fdb6b5fd5f79ead49fce992cd2bbd0209",
+      "passwordSalt": "8414cba97dd8415b312b89b6d884fe74",
+      "lastSeen": 1795541663111
+    },
+    "het": {
+      "referredBy": null,
+      "referredUsers": [],
+      "referralCount": 0,
+      "avatar": null,
+      "termsAcceptedAt": 1795541515138,
+      "handle": "Het",
+      "realName": null,
+      "gender": "Prefer not to say",
+      "agreedTerms": true,
+      "deviceToken": "dev_1795541499087_g8085jlosmk1cewncg4joe",
+      "currentChat": "#lounge",
+      "ip": "10.52.159.215",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36",
+      "device": "mobile",
+      "browser": "Chrome 157",
+      "os": "Android 10",
+      "location": "Localhost / Private Network",
+      "deviceType": "Mobile",
+      "screen": "1080x2400 (360x800)",
+      "mobileModel": "Mobile Device",
+      "cpuCores": "8 Cores",
+      "ram": "N/A",
+      "hardwareSpecs": "8 Cores · N/A",
+      "networkType": "4G · 4 Mbps",
+      "connectionSpeed": "Fast",
+      "joinedAt": 1795541515138,
+      "lastLoginAt": 1795542186895,
+      "passwordHash": "24dc68d3033ead9353a179e799bcc6b7efa884c9c9ef734b279af12fd1534079f15f5f1369d2122b190d8ee85c9d8e30affb4a9c2a1e8310adcc2996e303a3f5",
+      "passwordSalt": "9f4b829053d2f2b37b7e14e1fb7359c5",
+      "lastSeen": 1795542326756
+    },
+    "hero_842706": {
+      "referredBy": null,
+      "referredUsers": [],
+      "referralCount": 0,
+      "avatar": null,
+      "termsAcceptedAt": 1795603842722,
+      "joinedAt": 1795603842722,
+      "handle": "hero_842706",
+      "realName": "Bruce Wayne Jr",
+      "gender": "Male",
+      "agreedTerms": true,
+      "deviceToken": "dev_1795603842709",
+      "currentChat": "#lounge",
+      "ip": "127.0.0.1",
+      "userAgent": "Unknown",
+      "device": "desktop",
+      "browser": "Unknown",
+      "os": "Unknown",
+      "location": "Localhost / Private Network",
+      "lastLoginAt": 1795603843332,
+      "passwordHash": "e268497de69f4c746b243fb4549e32e61e96ef39807432cdaa56dfa031227abdc2961b58be2a618c184c4622aae2d7d539a0e567d2c0ffaacdec9750f78272aa",
+      "passwordSalt": "92a06fe97e55c28df2e60b0701c00fd1",
+      "lastSeen": 1795603888376
+    }
+  },
+  "devices": {
+    "dev_1794577781489_czewghqulbly9aodryt0vb": "batman",
+    "dev_1794584011625_1akckf34e8gnpe12y62q2m": "bob",
+    "dev_1794584904163_m7cmsg5iuakzoedo2wd89n": "uyhb",
+    "dev_1794586547225_04nw4f3wpu6t4fakmweyuih": "hvy",
+    "dev_1794588114530_u056rn838dko9l8aum2voj": "bat",
+    "dev_1794588583224_91q5nwm64lrph6j9f1ulg": "incho",
+    "dev_1794589447202_92h65y80gc7vzry7xnoiin": "spd",
+    "dev_1794589816983_umymcjpb5epqq0xooa4519": "anu",
+    "dev_1794634071565_dxv63d1owouqqhd0qkdhz": "jhvjhj",
+    "dev_1794588051091_6y0vrgt721vn96tw953s6q": "jij",
+    "dev_1795340148309_e910rntpljp3tm0k1y1b": "hii",
+    "dev_1795358394101_piym8y6b8npny0xrqh8l": "anamika",
+    "dev_1795358282271_s30lc7phsdhkwsu4chg71c": "athul",
+    "dev_1795364005638_wx2x2ubzfahqaea2bjwf1h": "arjun",
+    "dev_1795364040438_crtmw38zvrag84znhrshb6": "adhi",
+    "dev_tok_k2qc3ktfh3i": "neo_tester_164",
+    "dev_1795503681722_6bq2enln7t7zbgcvp6o4q": "raju",
+    "dev_1795541353481_4xh2z3nn2l30hih72oyaket": "jijij",
+    "dev_1795541499087_g8085jlosmk1cewncg4joe": "het",
+    "dev_1795603842709": "hero_842706"
+  },
+  "sessions": {
+    "sess_1795498583651_a3e3dd41e851181c0ece50a9aafa1afa": "neo_tester_164",
+    "sess_1795498583790_e1ace1bb8115b390a212a1d71786a341": "neo_tester_164",
+    "sess_1795503622148_444331cc4b549687ffb8f3f950986827": "batman",
+    "sess_1795503672595_3393757bba481a612be301bd75c04784": "batman",
+    "sess_1795503710778_da7c07dfa689a41061b94c788d0fcc6b": "raju",
+    "sess_1795503725218_24b43812f698387a5803c6d86c426379": "batman",
+    "sess_1795504048166_220c67889b6aaa6e9cc16d170ade6c98": "raju",
+    "sess_1795504048226_bac6e242c435dfbe5df2eb93209e7d52": "raju",
+    "sess_1795504217058_6ddae167a08f35e65630d907caa91108": "batman",
+    "sess_1795504235893_920293605120b94d5a8a7ae1be22584b": "raju",
+    "sess_1795504235908_ef2fe83c5077b67aa93c0db195f6adb7": "raju",
+    "sess_1795512649608_1ddac9ef39b04261aa173ddc9ad615f9": "raju",
+    "sess_1795512649653_749cbdac432a8f31d5140e6dad4b5f8c": "raju",
+    "sess_1795512652465_fafa6198c276be15922ff3518bee09bb": "raju",
+    "sess_1795512652593_ad303a8353e7d5d25a3490af3faa2ec6": "raju",
+    "sess_1795512653621_c72f74312dae4f19bc64c0ce9c082c56": "raju",
+    "sess_1795512653701_4f2c096e27ac6881ff0e5529c6d16e43": "raju",
+    "sess_1795512831236_cd5d439831032f02984c3c7b24dd27da": "raju",
+    "sess_1795512840078_b416cc924ae1c1f15450bb1d8acdc7a4": "batman",
+    "sess_1795512840151_9ed22bbabedd7e6f5bbdb261f8794aaa": "raju",
+    "sess_1795512840163_65c2fae3faa9db7a3c509a06c6431e93": "raju",
+    "sess_1795512840800_fda7a07efcc1b34ced9b2b6f33566c89": "raju",
+    "sess_1795512864790_8d2b9d23d3214c09b6fd8107b1ce2342": "raju",
+    "sess_1795512864816_f586f790330a8264e817f4df9ecb20cd": "raju",
+    "sess_1795512871355_e8f64bf0ea47b52639cf83e3321b013f": "raju",
+    "sess_1795512875226_5a69be9601e0c91c1395f3607019d373": "raju",
+    "sess_1795512881589_c5308b3f460be86e9aa619a3d49a45e8": "raju",
+    "sess_1795512949873_2d8923333c9e20e668f8be88e1ba000c": "raju",
+    "sess_1795512949896_566ea4ba1a06855b75dedf411cc95481": "raju",
+    "sess_1795512990062_22afc8f26aac7431b1641d67e11b5943": "raju",
+    "sess_1795513095436_b04b52c1905a99076d3b6714c4d03a72": "raju",
+    "sess_1795513117610_de7d1f138326a77fe3413e67ee6dbdf4": "batman",
+    "sess_1795516053737_d533e09213c2232b810f139b470af6c7": "batman",
+    "sess_1795521147845_832cc8f0e8b31c4c6736797899b26b87": "batman",
+    "sess_1795521147853_293cd4937e24292dc0b52f6f9e34acb3": "bob",
+    "sess_1795521387605_5c174179962b9ed123a94087ec79850a": "batman",
+    "sess_1795521387620_d917aa15a97d23da62ccfcc796ba21ad": "bob",
+    "sess_1795521556996_7aae736b8dc265f6ecf69e80e6393333": "batman",
+    "sess_1795521557013_ac21fccc2ad26f2bcfda86d8c95d9e6c": "bob",
+    "sess_1795521628269_ea6861c6e7f7c2a74cf6327530aaa222": "batman",
+    "sess_1795521628295_fa1249fa861fc2b126f809f2066c80a2": "bob",
+    "sess_1795522043617_97ec411367c740c15bb0f27dcf82785f": "batman",
+    "sess_1795522046478_f7b8fb0a963c466e5707523b8200ecc8": "batman",
+    "sess_1795522046768_3b733dee132674d1d9e11f8c2797db4f": "batman",
+    "sess_1795522047279_26804f2386951ce2a738698cc0d087c4": "batman",
+    "sess_1795522089252_785097b7b469d2c9abe64dd5794fc6db": "raju",
+    "sess_1795522089418_b29c6fc4d973b60053b9a9bcd4dd220a": "raju",
+    "sess_1795522099427_a492722fa394abe7499a7b10b09c9532": "raju",
+    "sess_1795522099987_cea84a68ecce7d109781ce5b27f05821": "raju",
+    "sess_1795522141779_1af9c20ab95001418e60fb86007c08bc": "raju",
+    "sess_1795522141904_380717b82dab8cb02352b5e8e7ae9a08": "raju",
+    "sess_1795522166732_e67f36e8eeffa75c724ce1f14753f79d": "raju",
+    "sess_1795522173881_ed75c6852840473dc954cf540cc7205a": "raju",
+    "sess_1795522225650_7223157b397d30a2ad436154be1e7f5e": "bob",
+    "sess_1795522259636_e7532ec32511ac45e374cb57a63a02f2": "bob",
+    "sess_1795522331956_0a1f436f87a7c10dd2ba6a9546e7fa81": "batman",
+    "sess_1795522332024_0db8ff8953320bb21e02f153c6e49740": "batman",
+    "sess_1795522341847_445de94241352dbc6cd02f6440c472ca": "batman",
+    "sess_1795522341873_ab0c7dd4a0a4facf81065e4c8d6602b0": "batman",
+    "sess_1795522351356_b68f635eb34a4d139e552761e9e92124": "raju",
+    "sess_1795522351401_498bd982c041af30ed73866d1c242e63": "raju",
+    "sess_1795522354621_f042f0c493535534c607b1349faa9f51": "raju",
+    "sess_1795522362176_9fe3ea73206000dce95746fab1d900c5": "raju",
+    "sess_1795522369103_666e6529fd40d447c540ad3155e99243": "batman",
+    "sess_1795522369239_197592f9d8f938cc68eef24aa431fdd4": "batman",
+    "sess_1795522378333_1c410f625f324bab1e03ea34dc655f4a": "batman",
+    "sess_1795522384736_03ad252755557499cd57f1aadaef91c2": "raju",
+    "sess_1795522384806_6bd1de522866aa661edb1f2d871afdfe": "raju",
+    "sess_1795522391399_04f690a772c77bdae67085a7c94301d4": "batman",
+    "sess_1795522391546_dc82b611bf1b1048a580c208ff7d913b": "batman",
+    "sess_1795522399858_167c1541d8203946a1388606af88ca72": "raju",
+    "sess_1795522399899_bbe4c550eb2e95266b58b6462ed530da": "raju",
+    "sess_1795522403677_ab2b841f7755d52ad1549122345a72ef": "bob",
+    "sess_1795522405261_23cf4c256f82c947abc6012ab8c2161c": "bob",
+    "sess_1795522575192_4b2c648d52072b6e9ccf91a54a98be54": "batman",
+    "sess_1795522576942_33a12b84cf4de21fc142b6380ec23556": "batman",
+    "sess_1795522576969_cbe8953eecc36e4f6bccc4d645e59ab7": "batman",
+    "sess_1795522577010_91b6e445cfb79f553845e33fac9fcd68": "raju",
+    "sess_1795522577028_369f3636948303cc35e27e1bd4fb6a7a": "raju",
+    "sess_1795522593787_3bd0f804e52ec2113b48fa633e5844a7": "batman",
+    "sess_1795522603942_eb3855fd73c90334fb8d5d636ef15fee": "batman",
+    "sess_1795522603986_b3f26ef00aab102e7d8f079a6a93f155": "batman",
+    "sess_1795522604035_032dd611f219f16ce32e9a65f3e33edd": "raju",
+    "sess_1795522604058_e2629d7b880cc11bcbc437b52862ab24": "raju",
+    "sess_1795522644366_3fbe3559b0f83dfa3f82a2440a9c3501": "batman",
+    "sess_1795522648270_90cb14765585582ad9765fc50dd78c8c": "batman",
+    "sess_1795522648308_3cc88503c3c482843ff66fd43d216290": "batman",
+    "sess_1795522648385_542628bc0e501d8974be4cd32f11f6f6": "raju",
+    "sess_1795522648411_4db9856b8260c5d607162cecb3439007": "raju",
+    "sess_1795522699538_aa7ca6f1ae1543dd2c80ff61e0ea8c2a": "batman",
+    "sess_1795522707082_7fa51ccf01739786f84b563b7ab0d829": "batman",
+    "sess_1795522707134_01db6b210fae5a8ecac8a6df18d840ff": "batman",
+    "sess_1795522707190_e7178632c8bc8ebfca3f8ad2707d672d": "raju",
+    "sess_1795522707217_f17f0c0796b737bd7f9ce388f55e98cf": "raju",
+    "sess_1795522740593_c817cbb871e2e4bbadd50fb8e6964034": "batman",
+    "sess_1795522740664_2f04da229395dbed541ed3db13c26c32": "raju",
+    "sess_1795522761900_670c1df18bca882d838f42408b3c8894": "batman",
+    "sess_1795522761979_2d6a4d9715675d0d805dc76f60e27176": "batman",
+    "sess_1795522762230_94d87ebd039cd765c839fbc0af1aea9b": "raju",
+    "sess_1795522762286_d6fc56f074b6d6f41f8874b3d96ebc65": "raju",
+    "sess_1795522774708_a1a4c8834f5142be75b8027221923d13": "batman",
+    "sess_1795522774754_6d904ae363bd162b8ad7613de01086c5": "batman",
+    "sess_1795522833502_5116f2b30f5bcf1ef6ef59ecf5aef478": "raju",
+    "sess_1795522833534_83d052b76c14573ba648b1ec49c9bf9a": "raju",
+    "sess_1795523656845_a0e64bd0d78bfb09968789aa0d242221": "batman",
+    "sess_1795523656887_173fadf80a694d96edd058c2a1c0a8c4": "batman",
+    "sess_1795523658463_7b960cd57d876f455f33bfb2025157ca": "batman",
+    "sess_1795533613193_77c6bc16bf18a7ad473ad79c51da31a2": "batman",
+    "sess_1795533616507_fcfcc1fd83856e10f822ccf2bce82313": "batman",
+    "sess_1795533616872_e5f6ee563e16825e1e069eb04ebb70b8": "batman",
+    "sess_1795534153047_e66c8976371253d19f513ff73d091e92": "raju",
+    "sess_1795534153117_16ccbd87a7b5eafa10a3a1f6cda10508": "raju",
+    "sess_1795539496969_36dbe6a18e8d892926a3a94a4f5f88c4": "batman",
+    "sess_1795539496979_61f65bae405e8c0609148eb69b8d8d99": "bob",
+    "sess_1795541378776_997840872b13c8c70704757373f540dd": "jijij",
+    "sess_1795541399626_de2ed87d792e576a82dc7d80de39e6f0": "jijij",
+    "sess_1795541400659_b184ad6b1cd6f94a4b5ec99a672152a9": "jijij",
+    "sess_1795541441785_751f2f430fadc2debadfea55e9bfb24e": "batman",
+    "sess_1795541515182_feb9c90ff00063a3d20e7e85bd5401db": "het",
+    "sess_1795541619917_1b4d2f69cdd46b49243ad0557c85ec12": "het",
+    "sess_1795541662955_aca556a6b101aac41d17f5c78311fa53": "jijij",
+    "sess_1795542186764_ee17aa1ea0cefd1c3a9beffd30be3178": "het",
+    "sess_1795542186822_6b64ad3862c5fa2932bfa4f5e9542023": "het",
+    "sess_1795542186856_986eccbc5e185c49d80da87f2ef3acf1": "het",
+    "sess_1795542186887_eca490678225d494f25d123f22b831ec": "het",
+    "sess_1795600379318_fe12450b0e5c424010cd184d36568d8f": "batman",
+    "sess_1795600379397_84b843abc3ed2455a6cb36639a29e2a8": "batman",
+    "sess_1795600379425_c494f7260d60db8e74670440ffe35ebd": "batman",
+    "sess_1795600379457_9e92830e5a0e8d68e3d719c737c43c49": "batman",
+    "sess_1795600379471_d52d3abdf57cb68bf047d0cd074bd691": "batman",
+    "sess_1795600379485_de5caf6c8a2f6644d17aab95a9c0fefb": "batman",
+    "sess_1795600385514_717a719eae0efd31a5122ecdac67d0c6": "batman",
+    "sess_1795600385608_bb745981e9e29af8068e0ba6fb27a595": "batman",
+    "sess_1795600386811_f85a6820ac3097d326a6c4087874e13c": "batman",
+    "sess_1795603842655_6cd7cf849a1e12486aeca6d47b7cbaf7": "batman",
+    "sess_1795603842737_6768edee644cf59608a1b4c5bb39db6d": "hero_842706",
+    "sess_1795603843322_a0deafd3973371f8c44c3e51abd779ac": "hero_842706"
+  },
+  "messages": [
+    {
+      "id": "msg_1795521147865_3sau6dy",
+      "sender": "batman",
+      "recipient": "bob",
+      "content": "[game:question:{\"gameId\":\"q_1795521147865_ht95h\",\"questionId\":\"q_96\",\"questionText\":\"What do you love that I don't know you love?\",\"category\":\"Romance\",\"playerA\":\"batman\",\"playerB\":\"bob\",\"answers\":{},\"submittedUsers\":[],\"skips\":[],\"status\":\"ACTIVE\",\"startedAt\":1795521147865,\"messageId\":\"msg_1795521147865_3sau6dy\"}]",
+      "replyTo": null,
+      "timestamp": 1795521147865,
+      "isDeleted": false,
+      "updatedAt": 1795521147867
+    },
+    {
+      "id": "msg_1795521387638_5r9nk36",
+      "sender": "batman",
+      "recipient": "bob",
+      "content": "[game:question:{\"gameId\":\"q_1795521387638_k5tlm\",\"questionId\":\"q_45\",\"questionText\":\"What's your biggest dream that you haven't pursued yet?\",\"category\":\"Deep\",\"playerA\":\"batman\",\"playerB\":\"bob\",\"answers\":{},\"submittedUsers\":[],\"skips\":[\"batman\",\"Bob\"],\"status\":\"ACTIVE\",\"startedAt\":1795521387638,\"messageId\":\"msg_1795521387638_5r9nk36\"}]",
+      "replyTo": null,
+      "timestamp": 1795521387638,
+      "isDeleted": false,
+      "updatedAt": 1795521387655
+    },
+    {
+      "id": "msg_1795521557038_4y7fw9f",
+      "sender": "batman",
+      "recipient": "bob",
+      "content": "[game:question:{\"gameId\":\"q_1795521557038_djy35\",\"questionId\":\"q_120\",\"questionText\":\"What's something about yourself you're proud of?\",\"category\":\"Deep\",\"playerA\":\"batman\",\"playerB\":\"bob\",\"answers\":{\"batman\":\"Coffee with extra foam\"},\"submittedUsers\":[\"batman\"],\"skips\":[],\"status\":\"ACTIVE\",\"startedAt\":1795521557038,\"messageId\":\"msg_1795521557038_4y7fw9f\"}]",
+      "replyTo": null,
+      "timestamp": 1795521557038,
+      "isDeleted": false,
+      "updatedAt": 1795521557061
+    },
+    {
+      "id": "msg_1795521628321_p9n2f9d",
+      "sender": "batman",
+      "recipient": "bob",
+      "content": "[game:question:{\"gameId\":\"q_1795521628321_3pmig\",\"questionId\":\"q_122\",\"questionText\":\"Is there anything on your mind you haven't had a chance to share?\",\"category\":\"Deep\",\"playerA\":\"batman\",\"playerB\":\"bob\",\"answers\":{},\"submittedUsers\":[],\"skips\":[],\"status\":\"ACTIVE\",\"startedAt\":1795521628321,\"messageId\":\"msg_1795521628321_p9n2f9d\"}]",
+      "replyTo": null,
+      "timestamp": 1795521628321,
+      "isDeleted": false,
+      "updatedAt": 1795521628360
+    },
+    {
+      "id": "msg_1795521628352_t9kr69y",
+      "sender": "Bob",
+      "recipient": "batman",
+      "content": "[icebreaker:answers:@batman/answer=Coffee with extra foam|@bob/answer=Matcha green tea latte:What does feeling truly safe in a relationship mean to you?]",
+      "replyTo": null,
+      "timestamp": 1795521628352,
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1795522059440_kpk6zlb",
+      "sender": "batman",
+      "recipient": null,
+      "content": "[game:question:{\"gameId\":\"q_1795522059440_ywtgv\",\"questionId\":\"q_97\",\"questionText\":\"What's the most romantic thing anyone has ever done for you?\",\"category\":\"Romance\",\"playerA\":\"batman\",\"playerB\":\"RAJU\",\"answers\":{},\"submittedUsers\":[],\"skips\":[],\"status\":\"ACTIVE\",\"startedAt\":1795522059440,\"messageId\":\"msg_1795522059440_kpk6zlb\"}]",
+      "replyTo": null,
+      "timestamp": 1795522059440,
+      "isDeleted": false,
+      "updatedAt": 1795522107772
+    },
+    {
+      "id": "msg_1795522107757_s9crk6i",
+      "sender": "RAJU",
+      "recipient": null,
+      "content": "[icebreaker:answers:@batman/answer=ghgvhgv|@RAJU/answer=uyuvb:What's the most romantic place you've ever been?]",
+      "replyTo": null,
+      "timestamp": 1795522107757,
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1795522121294_l6bco8k",
+      "sender": "RAJU",
+      "recipient": null,
+      "content": "[game:question:{\"gameId\":\"q_1795522121294_di424\",\"questionId\":\"q_86\",\"questionText\":\"When did you last think 'I'm so lucky to have this person'?\",\"category\":\"Romance\",\"playerA\":\"RAJU\",\"playerB\":null,\"answers\":{},\"submittedUsers\":[],\"skips\":[],\"status\":\"ACTIVE\",\"startedAt\":1795522121294,\"messageId\":\"msg_1795522121294_l6bco8k\"}]",
+      "replyTo": null,
+      "timestamp": 1795522121294,
+      "isDeleted": false,
+      "updatedAt": 1795522121317
+    },
+    {
+      "id": "msg_1795522135816_ael2n9p",
+      "sender": "RAJU",
+      "recipient": null,
+      "content": "[game:question:{\"gameId\":\"q_1795522135816_v5pn1\",\"questionId\":\"q_8\",\"questionText\":\"What's the best compliment you've ever received?\",\"category\":\"Romance\",\"playerA\":\"RAJU\",\"playerB\":null,\"answers\":{},\"submittedUsers\":[],\"skips\":[],\"status\":\"ACTIVE\",\"startedAt\":1795522135816,\"messageId\":\"msg_1795522135816_ael2n9p\"}]",
+      "replyTo": null,
+      "timestamp": 1795522135816,
+      "isDeleted": false,
+      "updatedAt": 1795522135839
+    },
+    {
+      "id": "msg_1795522292433_6o8ghjg",
+      "sender": "Bob",
+      "recipient": "batman",
+      "content": "Hii",
+      "replyTo": null,
+      "timestamp": 1795522292434,
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1795539496984_dt8mtuu",
+      "sender": "batman",
+      "recipient": null,
+      "content": "Test rapid message #1 - 1795539496969",
+      "replyTo": null,
+      "timestamp": 1795539496984,
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1795539497056_d4nlw55",
+      "sender": "batman",
+      "recipient": null,
+      "content": "Test rapid message #2 - 1795539497041",
+      "replyTo": null,
+      "timestamp": 1795539497056,
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1795539497118_hjfpw1n",
+      "sender": "batman",
+      "recipient": null,
+      "content": "Test rapid message #3 - 1795539497102",
+      "replyTo": null,
+      "timestamp": 1795539497118,
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1795539497184_03ot7vn",
+      "sender": "batman",
+      "recipient": null,
+      "content": "Test rapid message #4 - 1795539497168",
+      "replyTo": null,
+      "timestamp": 1795539497184,
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1795539497250_jdcp4zj",
+      "sender": "batman",
+      "recipient": null,
+      "content": "Test rapid message #5 - 1795539497235",
+      "replyTo": null,
+      "timestamp": 1795539497250,
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1795541522185_4glxnke",
+      "sender": "Het",
+      "recipient": null,
+      "content": "His",
+      "replyTo": null,
+      "timestamp": 1795541522185,
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1795541533970_61vldk9",
+      "sender": "Het",
+      "recipient": null,
+      "content": "Vjsj",
+      "replyTo": null,
+      "timestamp": 1795541533970,
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1795541535804_ff1vpmq",
+      "sender": "Het",
+      "recipient": null,
+      "content": "Hs",
+      "replyTo": null,
+      "timestamp": 1795541535804,
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1795541537848_ob6ck4g",
+      "sender": "Het",
+      "recipient": null,
+      "content": "Hs",
+      "replyTo": null,
+      "timestamp": 1795541537848,
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1795541539072_vsn6a1w",
+      "sender": "Het",
+      "recipient": null,
+      "content": "Nsj",
+      "replyTo": null,
+      "timestamp": 1795541539072,
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1795541540030_43ul9t2",
+      "sender": "Het",
+      "recipient": null,
+      "content": "Bs",
+      "replyTo": null,
+      "timestamp": 1795541540030,
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1795541541687_2bvo8pi",
+      "sender": "Het",
+      "recipient": null,
+      "content": "Bsh",
+      "replyTo": null,
+      "timestamp": 1795541541687,
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1795541542514_obphog4",
+      "sender": "Het",
+      "recipient": null,
+      "content": "Ns",
+      "replyTo": null,
+      "timestamp": 1795541542514,
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1795603843352_wp0q9by",
+      "sender": "hero_842706",
+      "recipient": null,
+      "content": "Hello 24h test message",
+      "replyTo": null,
+      "createdAt": 1795603843352,
+      "timestamp": 1795603843352,
+      "isDeleted": false
+    }
+  ],
+  "bannedHandles": [
+    "partner_beta_6421",
+    "inviter_alpha_6147",
+    "ref_bronze_3_4702",
+    "player_alpha"
+  ],
+  "bannedDetails": {
+    "partner_beta_6421": {
+      "handle": "partner_beta_6421",
+      "realName": "Beta Partner",
+      "ip": "127.0.0.1",
+      "device": "Desktop",
+      "reason": "Violating Community Standards",
+      "bannedAt": 1795365181465
+    },
+    "inviter_alpha_6147": {
+      "handle": "inviter_alpha_6147",
+      "realName": "Alpha Inviter",
+      "ip": "127.0.0.1",
+      "device": "Desktop",
+      "reason": "Violating Community Standards",
+      "bannedAt": 1795365176658
+    },
+    "ref_bronze_3_4702": {
+      "handle": "ref_bronze_3_4702",
+      "realName": "Referred 3",
+      "ip": "127.0.0.1",
+      "device": "Desktop",
+      "reason": "Violating Community Standards",
+      "bannedAt": 1795365178824
+    },
+    "player_alpha": {
+      "handle": "player_alpha",
+      "realName": "Alpha Tester",
+      "ip": "127.0.0.1",
+      "device": "Desktop",
+      "reason": "Violating Community Standards",
+      "bannedAt": 1795365171247
+    }
+  },
+  "kickedUsers": {
+    "bat": {
+      "handle": "bat",
+      "realName": null,
+      "ip": "::1",
+      "device": "desktop",
+      "reason": "Kicked by administrator",
+      "kickedAt": 1794634175733,
+      "timeoutUntil": 1794634475733
+    },
+    "batman": {
+      "handle": "batman",
+      "realName": null,
+      "ip": "::1",
+      "device": "desktop",
+      "reason": "Kicked by administrator",
+      "kickedAt": 1794634188478,
+      "timeoutUntil": 1794634488478
+    },
+    "hii": {
+      "handle": "Hii",
+      "realName": "Levin",
+      "ip": "10.52.159.215",
+      "device": "mobile",
+      "reason": "Kicked by administrator",
+      "kickedAt": 1795340340831,
+      "timeoutUntil": 1795340640831
+    },
+    "ref_bronze_3_4702": {
+      "handle": "ref_bronze_3_4702",
+      "realName": "Referred 3",
+      "ip": "127.0.0.1",
+      "device": "Desktop",
+      "reason": "Kicked by administrator",
+      "kickedAt": 1795364406461,
+      "timeoutUntil": 1795364706461
+    }
+  },
+  "adminLogs": [
+    {
+      "id": "log_1795603843311_t6jft",
+      "action": "USER_LOGIN",
+      "target": "hero_842706",
+      "details": "Logged in with password from IP: 127.0.0.1 (Unknown · desktop · Unknown)",
+      "timestamp": 1795603843311
+    },
+    {
+      "id": "log_1795603842718_69mxt",
+      "action": "USER_JOIN",
+      "target": "hero_842706",
+      "details": "Registered device from IP: 127.0.0.1 (Unknown · desktop · Unknown)",
+      "timestamp": 1795603842718
+    },
+    {
+      "id": "log_1795603842651_zk66m",
+      "action": "USER_LOGIN",
+      "target": "batman",
+      "details": "Logged in with password from IP: 127.0.0.1 (Unknown · desktop · Unknown)",
+      "timestamp": 1795603842651
+    },
+    {
+      "id": "log_1795600386793_kr2ww",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795600386793
+    },
+    {
+      "id": "log_1795600385592_66ry6",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795600385592
+    },
+    {
+      "id": "log_1795600385508_nurkw",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795600385508
+    },
+    {
+      "id": "log_1795600379479_8gd87",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795600379479
+    },
+    {
+      "id": "log_1795600379466_huvha",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795600379466
+    },
+    {
+      "id": "log_1795600379452_o4953",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795600379452
+    },
+    {
+      "id": "log_1795600379418_bxmjg",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795600379418
+    },
+    {
+      "id": "log_1795600379389_f3e0u",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795600379389
+    },
+    {
+      "id": "log_1795600379300_eeov9",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 158.0.0.0)",
+      "timestamp": 1795600379304
+    },
+    {
+      "id": "log_1795542186878_0ke1p",
+      "action": "USER_CONNECT",
+      "target": "Het",
+      "details": "Connected from IP: 10.52.159.215 (Android 10 · mobile · Chrome 157)",
+      "timestamp": 1795542186878
+    },
+    {
+      "id": "log_1795542186848_ewk7c",
+      "action": "USER_CONNECT",
+      "target": "Het",
+      "details": "Connected from IP: 10.52.159.215 (Android 10 · mobile · Chrome 157)",
+      "timestamp": 1795542186848
+    },
+    {
+      "id": "log_1795542186814_xnuwu",
+      "action": "USER_CONNECT",
+      "target": "Het",
+      "details": "Connected from IP: 10.52.159.215 (Android 10 · mobile · Chrome 157)",
+      "timestamp": 1795542186814
+    },
+    {
+      "id": "log_1795542186756_6a1pg",
+      "action": "USER_CONNECT",
+      "target": "Het",
+      "details": "Connected from IP: 10.52.159.215 (Android 10 · mobile · Chrome 157)",
+      "timestamp": 1795542186756
+    },
+    {
+      "id": "log_1795541662936_btwv3",
+      "action": "USER_CONNECT",
+      "target": "jijij",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 152)",
+      "timestamp": 1795541662936
+    },
+    {
+      "id": "log_1795541619908_tcsol",
+      "action": "USER_CONNECT",
+      "target": "Het",
+      "details": "Connected from IP: 10.52.159.215 (Android 10 · mobile · Chrome 157)",
+      "timestamp": 1795541619908
+    },
+    {
+      "id": "log_1795541515129_g78n0",
+      "action": "USER_JOIN",
+      "target": "Het",
+      "details": "Registered device from IP: 10.52.159.215 (Android 10 · Mobile Device · Chrome 157.0.0.0)",
+      "timestamp": 1795541515129
+    },
+    {
+      "id": "log_1795541441772_0hdsy",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 158.0.0.0)",
+      "timestamp": 1795541441772
+    },
+    {
+      "id": "log_1795541400645_721sa",
+      "action": "USER_CONNECT",
+      "target": "jijij",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 152)",
+      "timestamp": 1795541400645
+    },
+    {
+      "id": "log_1795541399622_ab1d7",
+      "action": "USER_CONNECT",
+      "target": "jijij",
+      "details": "Connected from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 152.0.7977.167)",
+      "timestamp": 1795541399622
+    },
+    {
+      "id": "log_1795541378755_107cl",
+      "action": "USER_JOIN",
+      "target": "jijij",
+      "details": "Registered device from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 152.0.7977.167)",
+      "timestamp": 1795541378755
+    },
+    {
+      "id": "log_1795539496977_1j9tu",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 127.0.0.1 (Unknown · desktop · Unknown)",
+      "timestamp": 1795539496977
+    },
+    {
+      "id": "log_1795539496965_nnyzi",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Unknown · desktop · Unknown)",
+      "timestamp": 1795539496965
+    },
+    {
+      "id": "log_1795534153114_z7rhv",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795534153114
+    },
+    {
+      "id": "log_1795534153042_kutod",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795534153042
+    },
+    {
+      "id": "log_1795533616866_rfq4e",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795533616866
+    },
+    {
+      "id": "log_1795533616503_tn96l",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795533616503
+    },
+    {
+      "id": "log_1795533613190_fc16h",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 158.0.0.0)",
+      "timestamp": 1795533613190
+    },
+    {
+      "id": "log_1795523658454_i6x8s",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795523658454
+    },
+    {
+      "id": "log_1795523656884_aqwdn",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795523656884
+    },
+    {
+      "id": "log_1795523656840_g2iy2",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795523656840
+    },
+    {
+      "id": "log_1795522833529_psueu",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522833529
+    },
+    {
+      "id": "log_1795522833498_cri8q",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522833498
+    },
+    {
+      "id": "log_1795522774750_7zb6z",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522774750
+    },
+    {
+      "id": "log_1795522774696_5qfo8",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522774696
+    },
+    {
+      "id": "log_1795522762281_ymmry",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522762281
+    },
+    {
+      "id": "log_1795522762226_nrf1r",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522762226
+    },
+    {
+      "id": "log_1795522761973_4o01b",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522761973
+    },
+    {
+      "id": "log_1795522761896_t74xu",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522761896
+    },
+    {
+      "id": "log_1795522740641_ior5z",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522740642
+    },
+    {
+      "id": "log_1795522740584_teqqi",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522740584
+    },
+    {
+      "id": "log_1795522707214_alr3a",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522707214
+    },
+    {
+      "id": "log_1795522707187_x34kd",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522707187
+    },
+    {
+      "id": "log_1795522707121_kjr11",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522707121
+    },
+    {
+      "id": "log_1795522707079_92nfv",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522707079
+    },
+    {
+      "id": "log_1795522699530_1roxn",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522699530
+    },
+    {
+      "id": "log_1795522648407_ty9e0",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522648407
+    },
+    {
+      "id": "log_1795522648380_0kwt6",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522648380
+    },
+    {
+      "id": "log_1795522648290_pfbrn",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522648292
+    },
+    {
+      "id": "log_1795522648261_n4f15",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522648261
+    },
+    {
+      "id": "log_1795522644362_fp5bd",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522644362
+    },
+    {
+      "id": "log_1795522604048_c1l2g",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522604048
+    },
+    {
+      "id": "log_1795522604028_4dzdz",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522604028
+    },
+    {
+      "id": "log_1795522603966_492n0",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522603966
+    },
+    {
+      "id": "log_1795522603940_6jzsa",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522603940
+    },
+    {
+      "id": "log_1795522593784_6jcqx",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522593784
+    },
+    {
+      "id": "log_1795522577022_em11m",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522577022
+    },
+    {
+      "id": "log_1795522577007_nwzgl",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522577008
+    },
+    {
+      "id": "log_1795522576967_q6ova",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522576967
+    },
+    {
+      "id": "log_1795522576938_f2dgh",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522576938
+    },
+    {
+      "id": "log_1795522575184_96d8f",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522575184
+    },
+    {
+      "id": "log_1795522405246_dciv7",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 10.52.159.215 (Android 10 · mobile · Chrome 157)",
+      "timestamp": 1795522405246
+    },
+    {
+      "id": "log_1795522403664_snfz5",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 10.52.159.215 (Android 10 · mobile · Chrome 157)",
+      "timestamp": 1795522403664
+    },
+    {
+      "id": "log_1795522399889_7odus",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522399890
+    },
+    {
+      "id": "log_1795522399850_mo0m7",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522399850
+    },
+    {
+      "id": "log_1795522391524_gujzn",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522391527
+    },
+    {
+      "id": "log_1795522391382_ezett",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522391382
+    },
+    {
+      "id": "log_1795522384795_lgnx5",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522384795
+    },
+    {
+      "id": "log_1795522384714_v12fa",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522384714
+    },
+    {
+      "id": "log_1795522378298_pqnx2",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522378298
+    },
+    {
+      "id": "log_1795522369195_o221t",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522369195
+    },
+    {
+      "id": "log_1795522369094_p94t1",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522369094
+    },
+    {
+      "id": "log_1795522362158_nbr12",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522362158
+    },
+    {
+      "id": "log_1795522354603_68irq",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522354603
+    },
+    {
+      "id": "log_1795522351396_gb64z",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522351396
+    },
+    {
+      "id": "log_1795522351341_is481",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522351341
+    },
+    {
+      "id": "log_1795522341869_iy3zk",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522341869
+    },
+    {
+      "id": "log_1795522341822_ofmmg",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522341822
+    },
+    {
+      "id": "log_1795522332001_fvah8",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522332001
+    },
+    {
+      "id": "log_1795522331882_cmzrm",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522331883
+    },
+    {
+      "id": "log_1795522259620_ks6sa",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 10.52.159.215 (Android 10 · mobile · Chrome 157)",
+      "timestamp": 1795522259620
+    },
+    {
+      "id": "log_1795522225625_s0vmj",
+      "action": "USER_LOGIN",
+      "target": "Bob",
+      "details": "Logged in with password from IP: 10.52.159.215 (Android 10 · Mobile Device · Chrome 157.0.0.0)",
+      "timestamp": 1795522225625
+    },
+    {
+      "id": "log_1795522188122_jdtcu",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 10.52.159.215 (Android 10 · Mobile Device · Chrome 157.0.0.0)",
+      "timestamp": 1795522188122
+    },
+    {
+      "id": "log_1795522173863_ljxgb",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522173863
+    },
+    {
+      "id": "log_1795522166723_sp0r7",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522166723
+    },
+    {
+      "id": "log_1795522141897_4fyej",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 158.0.0.0)",
+      "timestamp": 1795522141897
+    },
+    {
+      "id": "log_1795522141772_1bz3s",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522141772
+    },
+    {
+      "id": "log_1795522099977_77pcf",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 158.0.0.0)",
+      "timestamp": 1795522099977
+    },
+    {
+      "id": "log_1795522099413_qf6xi",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522099413
+    },
+    {
+      "id": "log_1795522089410_dt2yl",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522089410
+    },
+    {
+      "id": "log_1795522089221_9iim5",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522089221
+    },
+    {
+      "id": "log_1795522047265_nv5pa",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 158.0.0.0)",
+      "timestamp": 1795522047265
+    },
+    {
+      "id": "log_1795522046730_24jzx",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522046731
+    },
+    {
+      "id": "log_1795522046462_5plsk",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522046462
+    },
+    {
+      "id": "log_1795522043611_fjprf",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795522043611
+    },
+    {
+      "id": "log_1795521628291_tdtz0",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 127.0.0.1 (Unknown · desktop · Unknown)",
+      "timestamp": 1795521628291
+    },
+    {
+      "id": "log_1795521628266_7r1uk",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Unknown · desktop · Unknown)",
+      "timestamp": 1795521628266
+    },
+    {
+      "id": "log_1795521557011_oh11t",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 127.0.0.1 (Unknown · desktop · Unknown)",
+      "timestamp": 1795521557011
+    },
+    {
+      "id": "log_1795521556990_ah5vx",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Unknown · desktop · Unknown)",
+      "timestamp": 1795521556990
+    },
+    {
+      "id": "log_1795521387616_2s309",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 127.0.0.1 (Unknown · desktop · Unknown)",
+      "timestamp": 1795521387616
+    },
+    {
+      "id": "log_1795521387604_f1eez",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Unknown · desktop · Unknown)",
+      "timestamp": 1795521387604
+    },
+    {
+      "id": "log_1795521147851_1nqt4",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 127.0.0.1 (Unknown · desktop · Unknown)",
+      "timestamp": 1795521147851
+    },
+    {
+      "id": "log_1795521147843_4u65r",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Unknown · desktop · Unknown)",
+      "timestamp": 1795521147843
+    },
+    {
+      "id": "log_1795516053730_wqibo",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795516053730
+    },
+    {
+      "id": "log_1795513117605_o80tt",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795513117605
+    },
+    {
+      "id": "log_1795513095429_pylqn",
+      "action": "USER_LOGIN",
+      "target": "RAJU",
+      "details": "Logged in with password from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 158.0.0.0)",
+      "timestamp": 1795513095429
+    },
+    {
+      "id": "log_1795512990085_pus6u",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795512990085
+    },
+    {
+      "id": "log_1795512990057_cys2z",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795512990057
+    },
+    {
+      "id": "log_1795512949890_4rhye",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795512949890
+    },
+    {
+      "id": "log_1795512949868_5y843",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795512949868
+    },
+    {
+      "id": "log_1795512881575_mcfof",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795512881575
+    },
+    {
+      "id": "log_1795512875214_f36le",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795512875214
+    },
+    {
+      "id": "log_1795512871339_m0xv0",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795512871339
+    },
+    {
+      "id": "log_1795512864809_blqj0",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795512864809
+    },
+    {
+      "id": "log_1795512864783_1gma1",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795512864783
+    },
+    {
+      "id": "log_1795512840793_rp1km",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795512840793
+    },
+    {
+      "id": "log_1795512840160_1in80",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795512840160
+    },
+    {
+      "id": "log_1795512840147_f8k79",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795512840147
+    },
+    {
+      "id": "log_1795512840074_nyct4",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795512840074
+    },
+    {
+      "id": "log_1795512831223_u402c",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795512831223
+    },
+    {
+      "id": "log_1795512653694_6evhe",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 158.0.0.0)",
+      "timestamp": 1795512653694
+    },
+    {
+      "id": "log_1795512653616_iz1yu",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795512653616
+    },
+    {
+      "id": "log_1795512652588_p3sam",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 158.0.0.0)",
+      "timestamp": 1795512652588
+    },
+    {
+      "id": "log_1795512652458_6uxqf",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795512652458
+    },
+    {
+      "id": "log_1795512649642_c0qce",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795512649642
+    },
+    {
+      "id": "log_1795512649599_hqyle",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795512649599
+    },
+    {
+      "id": "log_1795504235902_xr5ak",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795504235902
+    },
+    {
+      "id": "log_1795504235882_ir3zh",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795504235882
+    },
+    {
+      "id": "log_1795504217055_s60jt",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795504217055
+    },
+    {
+      "id": "log_1795504048221_ljym4",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795504048221
+    },
+    {
+      "id": "log_1795504048162_tb7c7",
+      "action": "USER_CONNECT",
+      "target": "RAJU",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795504048162
+    },
+    {
+      "id": "log_1795503725208_e3fd9",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795503725208
+    },
+    {
+      "id": "log_1795503710736_zh5wv",
+      "action": "USER_JOIN",
+      "target": "RAJU",
+      "details": "Registered device from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 158.0.0.0)",
+      "timestamp": 1795503710736
+    },
+    {
+      "id": "log_1795503672586_wkcgk",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795503672586
+    },
+    {
+      "id": "log_1795503633406_2gu09",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795503633406
+    },
+    {
+      "id": "log_1795503622139_io5hw",
+      "action": "USER_LOGIN",
+      "target": "batman",
+      "details": "Logged in with password from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 158.0.0.0)",
+      "timestamp": 1795503622139
+    },
+    {
+      "id": "log_1795503596300_idezx",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 158.0.0.0)",
+      "timestamp": 1795503596300
+    },
+    {
+      "id": "log_1795498583785_yefco",
+      "action": "USER_CONNECT",
+      "target": "neo_tester_164",
+      "details": "Connected from IP: 127.0.0.1 (Unknown · desktop · Unknown)",
+      "timestamp": 1795498583785
+    },
+    {
+      "id": "log_1795498583741_uw1ru",
+      "action": "USER_LOGIN",
+      "target": "neo_tester_164",
+      "details": "Logged in with password from IP: 127.0.0.1 (Unknown · desktop · Unknown)",
+      "timestamp": 1795498583741
+    },
+    {
+      "id": "log_1795498583630_5ewdv",
+      "action": "USER_JOIN",
+      "target": "neo_tester_164",
+      "details": "Registered device from IP: 127.0.0.1 (Unknown · desktop · Unknown)",
+      "timestamp": 1795498583631
+    },
+    {
+      "id": "log_1795375489488_n78rd",
+      "action": "USER_CONNECT",
+      "target": "Anamika",
+      "details": "Connected from IP: 10.52.159.215 (Android 10 · mobile · Chrome 157)",
+      "timestamp": 1795375489488
+    },
+    {
+      "id": "log_1795374737992_z57zm",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 10.52.159.215 (Android 10 · mobile · Chrome 157)",
+      "timestamp": 1795374737992
+    },
+    {
+      "id": "log_1795374737740_0l9eb",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 10.52.159.215 (Android 10 · mobile · Chrome 157)",
+      "timestamp": 1795374737740
+    },
+    {
+      "id": "log_1795374135231_zflb8",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795374135231
+    },
+    {
+      "id": "log_1795374135186_qy0sb",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795374135186
+    },
+    {
+      "id": "log_1795374042030_ab5nm",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795374042030
+    },
+    {
+      "id": "log_1795374042011_u1v5g",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795374042011
+    },
+    {
+      "id": "log_1795374018814_dcp8v",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 10.52.159.215 (Android 10 · mobile · Chrome 157)",
+      "timestamp": 1795374018814
+    },
+    {
+      "id": "log_1795374018789_ybz75",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 10.52.159.215 (Android 10 · mobile · Chrome 157)",
+      "timestamp": 1795374018789
+    },
+    {
+      "id": "log_1795374010470_h6rze",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 10.52.159.215 (Android 10 · mobile · Chrome 157)",
+      "timestamp": 1795374010470
+    },
+    {
+      "id": "log_1795374010272_z65cj",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 10.52.159.215 (Android 10 · mobile · Chrome 157)",
+      "timestamp": 1795374010272
+    },
+    {
+      "id": "log_1795373982718_wasim",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 158.0.0.0)",
+      "timestamp": 1795373982718
+    },
+    {
+      "id": "log_1795373982500_c07k3",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795373982500
+    },
+    {
+      "id": "log_1795373980786_76doc",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795373980786
+    },
+    {
+      "id": "log_1795373980737_fwecv",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795373980737
+    },
+    {
+      "id": "log_1795373914187_nizt1",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 10.52.159.215 (Android 10 · Mobile Device · Chrome 157.0.0.0)",
+      "timestamp": 1795373914187
+    },
+    {
+      "id": "log_1795373873456_8151t",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 158.0.0.0)",
+      "timestamp": 1795373873456
+    },
+    {
+      "id": "log_1795373873074_dvv3j",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795373873074
+    },
+    {
+      "id": "log_1795373869657_k2tyi",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795373869657
+    },
+    {
+      "id": "log_1795373869619_um5fq",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795373869619
+    },
+    {
+      "id": "log_1795373681734_9palj",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 127.0.0.1 (Unknown · desktop · Unknown)",
+      "timestamp": 1795373681734
+    },
+    {
+      "id": "log_1795373681727_c27eg",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Unknown · desktop · Unknown)",
+      "timestamp": 1795373681727
+    },
+    {
+      "id": "log_1795372427236_t0k00",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795372427236
+    },
+    {
+      "id": "log_1795372427203_421e8",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795372427203
+    },
+    {
+      "id": "log_1795372206494_iqf05",
+      "action": "USER_CONNECT",
+      "target": "Anamika",
+      "details": "Connected from IP: 10.52.159.215 (Android 10 · mobile · Chrome 157)",
+      "timestamp": 1795372206494
+    },
+    {
+      "id": "log_1795371492831_qyj3t",
+      "action": "USER_CONNECT",
+      "target": "Anamika",
+      "details": "Connected from IP: 10.52.159.215 (Android 10 · mobile · Chrome 157)",
+      "timestamp": 1795371492831
+    },
+    {
+      "id": "log_1795371492710_1utli",
+      "action": "USER_CONNECT",
+      "target": "Anamika",
+      "details": "Connected from IP: 10.52.159.215 (Android 10 · mobile · Chrome 157)",
+      "timestamp": 1795371492710
+    },
+    {
+      "id": "log_1795371421076_g2jkl",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795371421077
+    },
+    {
+      "id": "log_1795371418807_4xcup",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795371418807
+    },
+    {
+      "id": "log_1795371403120_dnc81",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795371403120
+    },
+    {
+      "id": "log_1795371398472_uju9e",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795371398472
+    },
+    {
+      "id": "log_1795371339755_il78x",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 158.0.0.0)",
+      "timestamp": 1795371339755
+    },
+    {
+      "id": "log_1795371339589_z29ip",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795371339589
+    },
+    {
+      "id": "log_1795371333661_udpl1",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795371333661
+    },
+    {
+      "id": "log_1795371333642_xzxbo",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795371333642
+    },
+    {
+      "id": "log_1795371293787_a4rs2",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795371293787
+    },
+    {
+      "id": "log_1795371293771_g3nal",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795371293771
+    },
+    {
+      "id": "log_1795371291453_s4nj3",
+      "action": "USER_CONNECT",
+      "target": "Anamika",
+      "details": "Connected from IP: 10.52.159.215 (Android 10 · mobile · Chrome 157)",
+      "timestamp": 1795371291453
+    },
+    {
+      "id": "log_1795371291395_5pvy3",
+      "action": "USER_CONNECT",
+      "target": "Anamika",
+      "details": "Connected from IP: 10.52.159.215 (Android 10 · mobile · Chrome 157)",
+      "timestamp": 1795371291395
+    },
+    {
+      "id": "log_1795371283188_qc2lb",
+      "action": "USER_CONNECT",
+      "target": "Anamika",
+      "details": "Connected from IP: 10.52.159.215 (Android 10 · mobile · Chrome 157)",
+      "timestamp": 1795371283188
+    },
+    {
+      "id": "log_1795371141959_6rl67",
+      "action": "USER_CONNECT",
+      "target": "Anamika",
+      "details": "Connected from IP: 10.52.159.215 (Android 10 · Mobile Device · Chrome 157.0.0.0)",
+      "timestamp": 1795371141959
+    },
+    {
+      "id": "log_1795371047016_d3prb",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 158.0.0.0)",
+      "timestamp": 1795371047016
+    },
+    {
+      "id": "log_1795371046834_ge39g",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795371046834
+    },
+    {
+      "id": "log_1795371045426_0icfv",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795371045426
+    },
+    {
+      "id": "log_1795371045417_16ke8",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795371045417
+    },
+    {
+      "id": "log_1795371043387_tfw51",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795371043387
+    },
+    {
+      "id": "log_1795371043380_r6emu",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795371043380
+    },
+    {
+      "id": "log_1795370795473_kl003",
+      "action": "DELETE_USER_FULL",
+      "target": "temp_to_delete",
+      "details": "Admin permanently purged account @temp_to_delete, device lock, and all chat history.",
+      "timestamp": 1795370795473
+    },
+    {
+      "id": "log_1795370795457_7a476",
+      "action": "USER_JOIN",
+      "target": "temp_to_delete",
+      "details": "Registered device from IP: 127.0.0.1 (Unknown · desktop · Unknown)",
+      "timestamp": 1795370795457
+    },
+    {
+      "id": "log_1795368400747_wtlfh",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795368400747
+    },
+    {
+      "id": "log_1795368398166_shurc",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795368398166
+    },
+    {
+      "id": "log_1795368396964_hkvz3",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795368396964
+    },
+    {
+      "id": "log_1795367742603_yhpby",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 158.0.0.0)",
+      "timestamp": 1795367742603
+    },
+    {
+      "id": "log_1795367742457_1pff8",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795367742457
+    },
+    {
+      "id": "log_1795367740419_f6wda",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 158.0.0.0)",
+      "timestamp": 1795367740419
+    },
+    {
+      "id": "log_1795367740313_3ldtt",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795367740313
+    },
+    {
+      "id": "log_1795367739223_3ckq5",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795367739223
+    },
+    {
+      "id": "log_1795367739195_jiz4g",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795367739195
+    },
+    {
+      "id": "log_1795367596387_xdnh4",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795367596387
+    },
+    {
+      "id": "log_1795367564810_u0ylv",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795367564810
+    },
+    {
+      "id": "log_1795367561079_7d915",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795367561079
+    },
+    {
+      "id": "log_1795367543624_bvf3v",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 158.0.0.0)",
+      "timestamp": 1795367543624
+    },
+    {
+      "id": "log_1795367543437_6cdd9",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795367543437
+    },
+    {
+      "id": "log_1795367540063_aqq6e",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795367540063
+    },
+    {
+      "id": "log_1795367376366_bp4ya",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795367376366
+    },
+    {
+      "id": "log_1795367376353_hnwzx",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795367376353
+    },
+    {
+      "id": "log_1795367341537_metd1",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795367341537
+    },
+    {
+      "id": "log_1795367106613_49um5",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795367106613
+    },
+    {
+      "id": "log_1795367106600_zlety",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795367106600
+    },
+    {
+      "id": "log_1795367018310_hy4bm",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795367018310
+    },
+    {
+      "id": "log_1795367018292_3mrgc",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795367018292
+    },
+    {
+      "id": "log_1795367010130_f7l1e",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795367010130
+    },
+    {
+      "id": "log_1795367010120_5qgho",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795367010120
+    },
+    {
+      "id": "log_1795366964590_lddnr",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795366964590
+    },
+    {
+      "id": "log_1795366964576_ywtte",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795366964576
+    },
+    {
+      "id": "log_1795366961800_l25a0",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795366961800
+    },
+    {
+      "id": "log_1795366961756_y5kba",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795366961756
+    },
+    {
+      "id": "log_1795366813103_72ayz",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 158.0.0.0)",
+      "timestamp": 1795366813103
+    },
+    {
+      "id": "log_1795366812961_9sgem",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795366812961
+    },
+    {
+      "id": "log_1795366808186_c0h9s",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 158.0.0.0)",
+      "timestamp": 1795366808186
+    },
+    {
+      "id": "log_1795366808051_fk6zv",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795366808052
+    },
+    {
+      "id": "log_1795366803987_aosje",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795366803987
+    },
+    {
+      "id": "log_1795366803925_b6m25",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795366803925
+    },
+    {
+      "id": "log_1795366669256_wqin2",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795366669256
+    },
+    {
+      "id": "log_1795366669225_ttodw",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795366669225
+    },
+    {
+      "id": "log_1795366662793_2wtyi",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795366662793
+    },
+    {
+      "id": "log_1795366662723_46ith",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795366662723
+    },
+    {
+      "id": "log_1795366643939_wjpo0",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795366643940
+    },
+    {
+      "id": "log_1795366643879_7if0w",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795366643879
+    },
+    {
+      "id": "log_1795366594105_qjyze",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 158.0.0.0)",
+      "timestamp": 1795366594105
+    },
+    {
+      "id": "log_1795366593932_wz98j",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795366593932
+    },
+    {
+      "id": "log_1795366578656_hbba6",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795366578656
+    },
+    {
+      "id": "log_1795366578638_fs0gc",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795366578638
+    },
+    {
+      "id": "log_1795366548532_rqurf",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 158.0.0.0)",
+      "timestamp": 1795366548532
+    },
+    {
+      "id": "log_1795366548401_g8teu",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795366548401
+    },
+    {
+      "id": "log_1795366546664_vxkmy",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795366546664
+    },
+    {
+      "id": "log_1795366546626_e4kcj",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795366546626
+    },
+    {
+      "id": "log_1795366539949_jj54w",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795366539949
+    },
+    {
+      "id": "log_1795366539937_91dyj",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795366539937
+    },
+    {
+      "id": "log_1795366436854_6zu9c",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795366436854
+    },
+    {
+      "id": "log_1795366436810_k0usk",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795366436810
+    },
+    {
+      "id": "log_1795366402990_72bg6",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795366402990
+    },
+    {
+      "id": "log_1795366402956_224j1",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795366402956
+    },
+    {
+      "id": "log_1795366401720_qw55e",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795366401720
+    },
+    {
+      "id": "log_1795366401686_7ym87",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795366401686
+    },
+    {
+      "id": "log_1795366333495_tirce",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795366333495
+    },
+    {
+      "id": "log_1795365675664_uhscq",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365675664
+    },
+    {
+      "id": "log_1795365675634_xalyw",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365675634
+    },
+    {
+      "id": "log_1795365674268_fnq70",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365674268
+    },
+    {
+      "id": "log_1795365674213_r5yya",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365674213
+    },
+    {
+      "id": "log_1795365672689_cuydc",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365672689
+    },
+    {
+      "id": "log_1795365672636_34xqg",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365672636
+    },
+    {
+      "id": "log_1795365469460_9ew1w",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 158.0.0.0)",
+      "timestamp": 1795365469460
+    },
+    {
+      "id": "log_1795365469292_qwva9",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365469292
+    },
+    {
+      "id": "log_1795365456255_8lrfa",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365456255
+    },
+    {
+      "id": "log_1795365456207_r8edq",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365456207
+    },
+    {
+      "id": "log_1795365445081_zde1i",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365445081
+    },
+    {
+      "id": "log_1795365445053_t6wf3",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365445053
+    },
+    {
+      "id": "log_1795365443235_8orgk",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365443235
+    },
+    {
+      "id": "log_1795365440400_1o2k5",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365440400
+    },
+    {
+      "id": "log_1795365323918_1x6ui",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365323918
+    },
+    {
+      "id": "log_1795365323872_h4x3f",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365323872
+    },
+    {
+      "id": "log_1795365321784_l2f4b",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365321784
+    },
+    {
+      "id": "log_1795365321771_uqmxf",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365321771
+    },
+    {
+      "id": "log_1795365297061_4bbgs",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365297061
+    },
+    {
+      "id": "log_1795365297021_44cf0",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365297021
+    },
+    {
+      "id": "log_1795365233172_g1ui6",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 158.0.0.0)",
+      "timestamp": 1795365233172
+    },
+    {
+      "id": "log_1795365225671_39m3s",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365225671
+    },
+    {
+      "id": "log_1795365225625_9nh9w",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365225625
+    },
+    {
+      "id": "log_1795365225568_kfgzr",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365225568
+    },
+    {
+      "id": "log_1795365222089_87fqp",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 158.0.0.0)",
+      "timestamp": 1795365222089
+    },
+    {
+      "id": "log_1795365216058_ftmfd",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 158.0.0.0)",
+      "timestamp": 1795365216058
+    },
+    {
+      "id": "log_1795365215898_tioto",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365215898
+    },
+    {
+      "id": "log_1795365214292_43tdz",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365214292
+    },
+    {
+      "id": "log_1795365214250_uuu69",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365214251
+    },
+    {
+      "id": "log_1795365212205_akjw9",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365212205
+    },
+    {
+      "id": "log_1795365212158_crmdw",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365212158
+    },
+    {
+      "id": "log_1795365205997_0cpoa",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365205997
+    },
+    {
+      "id": "log_1795365205967_esacc",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365205967
+    },
+    {
+      "id": "log_1795365203852_wmhep",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365203852
+    },
+    {
+      "id": "log_1795365203807_zxizo",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365203807
+    },
+    {
+      "id": "log_1795365184472_gdk0v",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365184472
+    },
+    {
+      "id": "log_1795365184442_wk6il",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365184442
+    },
+    {
+      "id": "log_1795365181481_1m86f",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365181481
+    },
+    {
+      "id": "log_1795365181465_aii0a",
+      "action": "BAN_USER",
+      "target": "partner_beta_6421",
+      "details": "Banned user from IP 127.0.0.1: Violating Community Standards",
+      "timestamp": 1795365181465
+    },
+    {
+      "id": "log_1795365178855_s4124",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365178855
+    },
+    {
+      "id": "log_1795365178824_d5188",
+      "action": "BAN_USER",
+      "target": "ref_bronze_3_4702",
+      "details": "Banned user from IP 127.0.0.1: Violating Community Standards",
+      "timestamp": 1795365178824
+    },
+    {
+      "id": "log_1795365176675_lj3qv",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365176675
+    },
+    {
+      "id": "log_1795365176658_4vkdn",
+      "action": "BAN_USER",
+      "target": "inviter_alpha_6147",
+      "details": "Banned user from IP 127.0.0.1: Violating Community Standards",
+      "timestamp": 1795365176658
+    },
+    {
+      "id": "log_1795365173402_t4tzr",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365173402
+    },
+    {
+      "id": "log_1795365173383_sppq2",
+      "action": "BAN_USER",
+      "target": "partner_beta_6421",
+      "details": "Banned user from IP 127.0.0.1: Violating Community Standards",
+      "timestamp": 1795365173383
+    },
+    {
+      "id": "log_1795365171267_9uvdt",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365171267
+    },
+    {
+      "id": "log_1795365171247_ttqpc",
+      "action": "BAN_USER",
+      "target": "player_alpha",
+      "details": "Banned user from IP 127.0.0.1: Violating Community Standards",
+      "timestamp": 1795365171247
+    },
+    {
+      "id": "log_1795365163087_00lfu",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365163087
+    },
+    {
+      "id": "log_1795365163031_1c421",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365163031
+    },
+    {
+      "id": "log_1795365004036_6wa5v",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795365004036
+    },
+    {
+      "id": "log_1795364892354_afset",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364892354
+    },
+    {
+      "id": "log_1795364892341_hb4dg",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364892341
+    },
+    {
+      "id": "log_1795364891555_nnypk",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364891555
+    },
+    {
+      "id": "log_1795364891525_1o9qw",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364891525
+    },
+    {
+      "id": "log_1795364710720_l7pkd",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364710720
+    },
+    {
+      "id": "log_1795364710697_h6dkx",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364710697
+    },
+    {
+      "id": "log_1795364707795_o9dtt",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364707795
+    },
+    {
+      "id": "log_1795364707786_1lbde",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364707786
+    },
+    {
+      "id": "log_1795364542292_722re",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364542292
+    },
+    {
+      "id": "log_1795364542271_cn14c",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364542271
+    },
+    {
+      "id": "log_1795364520118_a87s0",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364520118
+    },
+    {
+      "id": "log_1795364520092_v4y4x",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364520092
+    },
+    {
+      "id": "log_1795364518003_y8kh4",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364518003
+    },
+    {
+      "id": "log_1795364517993_5s3et",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364517993
+    },
+    {
+      "id": "log_1795364512361_x4r9d",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364512361
+    },
+    {
+      "id": "log_1795364512324_24dv7",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364512324
+    },
+    {
+      "id": "log_1795364507477_t21qj",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364507477
+    },
+    {
+      "id": "log_1795364507452_jw90k",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364507452
+    },
+    {
+      "id": "log_1795364490595_fry7x",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364490595
+    },
+    {
+      "id": "log_1795364490559_vi38i",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364490559
+    },
+    {
+      "id": "log_1795364471441_pxurd",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364471441
+    },
+    {
+      "id": "log_1795364471427_j0tmh",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364471427
+    },
+    {
+      "id": "log_1795364457786_7k2aq",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364457786
+    },
+    {
+      "id": "log_1795364456559_yzz90",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364456559
+    },
+    {
+      "id": "log_1795364445966_ir3pq",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364445966
+    },
+    {
+      "id": "log_1795364445899_5o6ls",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364445899
+    },
+    {
+      "id": "log_1795364424080_0vhod",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364424080
+    },
+    {
+      "id": "log_1795364424057_j1144",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364424057
+    },
+    {
+      "id": "log_1795364415346_87fwc",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364415346
+    },
+    {
+      "id": "log_1795364415317_88jtl",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364415318
+    },
+    {
+      "id": "log_1795364409912_3dqbn",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364409912
+    },
+    {
+      "id": "log_1795364409833_jfz1p",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364409833
+    },
+    {
+      "id": "log_1795364406489_pygxt",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364406489
+    },
+    {
+      "id": "log_1795364406461_ztm2o",
+      "action": "KICK_USER",
+      "target": "ref_bronze_3_4702",
+      "details": "Kicked with 300s cooldown (IP: 127.0.0.1)",
+      "timestamp": 1795364406461
+    },
+    {
+      "id": "log_1795364402250_up1ba",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364402250
+    },
+    {
+      "id": "log_1795364402228_r8cv0",
+      "action": "KICK_USER",
+      "target": "ref_bronze_3_4702",
+      "details": "Kicked with 300s cooldown (IP: 127.0.0.1)",
+      "timestamp": 1795364402228
+    },
+    {
+      "id": "log_1795364394709_0uhs6",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364394709
+    },
+    {
+      "id": "log_1795364394686_99sk6",
+      "action": "KICK_USER",
+      "target": "ref_bronze_3_4702",
+      "details": "Kicked with 300s cooldown (IP: 127.0.0.1)",
+      "timestamp": 1795364394686
+    },
+    {
+      "id": "log_1795364391721_586fc",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364391721
+    },
+    {
+      "id": "log_1795364391699_599bv",
+      "action": "BAN_USER",
+      "target": "ref_bronze_3_4702",
+      "details": "Banned user from IP 127.0.0.1: Violating Community Standards",
+      "timestamp": 1795364391699
+    },
+    {
+      "id": "log_1795364388739_k7wai",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364388739
+    },
+    {
+      "id": "log_1795364388707_bbrci",
+      "action": "BAN_USER",
+      "target": "ref_bronze_3_4702",
+      "details": "Banned user from IP 127.0.0.1: Violating Community Standards",
+      "timestamp": 1795364388707
+    },
+    {
+      "id": "log_1795364361849_4dlsh",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 158.0.0.0)",
+      "timestamp": 1795364361849
+    },
+    {
+      "id": "log_1795364289223_ouxns",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364289223
+    },
+    {
+      "id": "log_1795364289192_6fm9n",
+      "action": "BAN_USER",
+      "target": "ref_bronze_3_4702",
+      "details": "Banned user from IP 127.0.0.1: Violating Community Standards",
+      "timestamp": 1795364289192
+    },
+    {
+      "id": "log_1795364285244_lq470",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364285244
+    },
+    {
+      "id": "log_1795364285211_zjyxs",
+      "action": "BAN_USER",
+      "target": "inviter_alpha_6147",
+      "details": "Banned user from IP 127.0.0.1: Violating Community Standards",
+      "timestamp": 1795364285211
+    },
+    {
+      "id": "log_1795364282904_gr18x",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364282904
+    },
+    {
+      "id": "log_1795364282872_ejkdz",
+      "action": "BAN_USER",
+      "target": "ref_bronze_3_4702",
+      "details": "Banned user from IP 127.0.0.1: Violating Community Standards",
+      "timestamp": 1795364282872
+    },
+    {
+      "id": "log_1795364280536_jkadx",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364280536
+    },
+    {
+      "id": "log_1795364280509_h0m2y",
+      "action": "BAN_USER",
+      "target": "inviter_alpha_6147",
+      "details": "Banned user from IP 127.0.0.1: Violating Community Standards",
+      "timestamp": 1795364280509
+    },
+    {
+      "id": "log_1795364275406_llwnz",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364275406
+    },
+    {
+      "id": "log_1795364275387_19ser",
+      "action": "BAN_USER",
+      "target": "ref_bronze_3_4702",
+      "details": "Banned user from IP 127.0.0.1: Violating Community Standards",
+      "timestamp": 1795364275387
+    },
+    {
+      "id": "log_1795364273273_ya177",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364273273
+    },
+    {
+      "id": "log_1795364273231_2vn09",
+      "action": "BAN_USER",
+      "target": "inviter_alpha_6147",
+      "details": "Banned user from IP 127.0.0.1: Violating Community Standards",
+      "timestamp": 1795364273232
+    },
+    {
+      "id": "log_1795364269223_bg3l0",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364269223
+    },
+    {
+      "id": "log_1795364269196_cucr7",
+      "action": "BAN_USER",
+      "target": "ref_bronze_3_4702",
+      "details": "Banned user from IP 127.0.0.1: Violating Community Standards",
+      "timestamp": 1795364269196
+    },
+    {
+      "id": "log_1795364266887_bzmlx",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364266887
+    },
+    {
+      "id": "log_1795364266858_sqvvd",
+      "action": "BAN_USER",
+      "target": "inviter_alpha_6147",
+      "details": "Banned user from IP 127.0.0.1: Violating Community Standards",
+      "timestamp": 1795364266858
+    },
+    {
+      "id": "log_1795364263972_e0trc",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364263972
+    },
+    {
+      "id": "log_1795364263948_9kuas",
+      "action": "BAN_USER",
+      "target": "ref_bronze_3_4702",
+      "details": "Banned user from IP 127.0.0.1: Violating Community Standards",
+      "timestamp": 1795364263948
+    },
+    {
+      "id": "log_1795364261196_krdm6",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364261196
+    },
+    {
+      "id": "log_1795364261172_vy8yw",
+      "action": "BAN_USER",
+      "target": "inviter_alpha_6147",
+      "details": "Banned user from IP 127.0.0.1: Violating Community Standards",
+      "timestamp": 1795364261172
+    },
+    {
+      "id": "log_1795364257263_fmgp5",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364257263
+    },
+    {
+      "id": "log_1795364257246_fr0yg",
+      "action": "BAN_USER",
+      "target": "player_alpha",
+      "details": "Banned user from IP 127.0.0.1: Violating Community Standards",
+      "timestamp": 1795364257246
+    },
+    {
+      "id": "log_1795364236289_z5l3s",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364236289
+    },
+    {
+      "id": "log_1795364236249_gciq2",
+      "action": "BAN_USER",
+      "target": "ref_bronze_3_4702",
+      "details": "Banned user from IP 127.0.0.1: Violating Community Standards",
+      "timestamp": 1795364236249
+    },
+    {
+      "id": "log_1795364232934_ehtc9",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364232934
+    },
+    {
+      "id": "log_1795364232902_x52hw",
+      "action": "BAN_USER",
+      "target": "ref_bronze_3_4702",
+      "details": "Banned user from IP 127.0.0.1: Violating Community Standards",
+      "timestamp": 1795364232902
+    },
+    {
+      "id": "log_1795364230665_10qmq",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364230665
+    },
+    {
+      "id": "log_1795364230637_82huf",
+      "action": "BAN_USER",
+      "target": "ref_bronze_3_4702",
+      "details": "Banned user from IP 127.0.0.1: Violating Community Standards",
+      "timestamp": 1795364230637
+    },
+    {
+      "id": "log_1795364228473_2ixed",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364228473
+    },
+    {
+      "id": "log_1795364228448_1cbhz",
+      "action": "BAN_USER",
+      "target": "ref_bronze_3_4702",
+      "details": "Banned user from IP 127.0.0.1: Violating Community Standards",
+      "timestamp": 1795364228448
+    },
+    {
+      "id": "log_1795364226409_izbml",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364226409
+    },
+    {
+      "id": "log_1795364226380_kn5kb",
+      "action": "BAN_USER",
+      "target": "ref_bronze_3_4702",
+      "details": "Banned user from IP 127.0.0.1: Violating Community Standards",
+      "timestamp": 1795364226380
+    },
+    {
+      "id": "log_1795364224479_vzdoj",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364224479
+    },
+    {
+      "id": "log_1795364224446_vj90c",
+      "action": "BAN_USER",
+      "target": "ref_bronze_3_4702",
+      "details": "Banned user from IP 127.0.0.1: Violating Community Standards",
+      "timestamp": 1795364224447
+    },
+    {
+      "id": "log_1795364222001_38fd2",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364222002
+    },
+    {
+      "id": "log_1795364221972_vfhmi",
+      "action": "BAN_USER",
+      "target": "ref_bronze_3_4702",
+      "details": "Banned user from IP 127.0.0.1: Violating Community Standards",
+      "timestamp": 1795364221972
+    },
+    {
+      "id": "log_1795364219850_ezvi4",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364219850
+    },
+    {
+      "id": "log_1795364219831_tbn1t",
+      "action": "BAN_USER",
+      "target": "ref_bronze_3_4702",
+      "details": "Banned user from IP 127.0.0.1: Violating Community Standards",
+      "timestamp": 1795364219831
+    },
+    {
+      "id": "log_1795364208940_a8rgw",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364208940
+    },
+    {
+      "id": "log_1795364208928_66f4f",
+      "action": "BAN_USER",
+      "target": "inviter_alpha_6147",
+      "details": "Banned user from IP 127.0.0.1: Violating Community Standards",
+      "timestamp": 1795364208928
+    },
+    {
+      "id": "log_1795364205662_8cv5t",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364205662
+    },
+    {
+      "id": "log_1795364205640_gnkga",
+      "action": "BAN_USER",
+      "target": "partner_beta_6421",
+      "details": "Banned user from IP 127.0.0.1: Violating Community Standards",
+      "timestamp": 1795364205640
+    },
+    {
+      "id": "log_1795364160609_6en33",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 158.0.0.0)",
+      "timestamp": 1795364160609
+    },
+    {
+      "id": "log_1795364155425_7gll0",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364155425
+    },
+    {
+      "id": "log_1795364155369_wrvej",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364155369
+    },
+    {
+      "id": "log_1795364103167_os2qw",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364103167
+    },
+    {
+      "id": "log_1795364103156_6sita",
+      "action": "DELETE_CHAT_THREAD",
+      "target": "player_alpha ↔ player_beta",
+      "details": "Admin permanently cleared whole conversation (1 messages deleted). Users remain in friend list.",
+      "timestamp": 1795364103156
+    },
+    {
+      "id": "log_1795364099900_4tvj4",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364099900
+    },
+    {
+      "id": "log_1795364099892_br8hh",
+      "action": "DELETE_CHAT_THREAD",
+      "target": "bat ↔ batman",
+      "details": "Admin permanently cleared whole conversation (4 messages deleted). Users remain in friend list.",
+      "timestamp": 1795364099892
+    },
+    {
+      "id": "log_1795364096785_gmgkv",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364096785
+    },
+    {
+      "id": "log_1795364096777_23ncq",
+      "action": "DELETE_CHAT_THREAD",
+      "target": "batman ↔ Bob",
+      "details": "Admin permanently cleared whole conversation (15 messages deleted). Users remain in friend list.",
+      "timestamp": 1795364096777
+    },
+    {
+      "id": "log_1795364078273_1onjh",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 158.0.0.0)",
+      "timestamp": 1795364078273
+    },
+    {
+      "id": "log_1795364067641_2nakv",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364067641
+    },
+    {
+      "id": "log_1795364067574_r5kpr",
+      "action": "USER_CONNECT",
+      "target": "adhi",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364067574
+    },
+    {
+      "id": "log_1795364057128_uiime",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364057128
+    },
+    {
+      "id": "log_1795364057049_fvyc0",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364057049
+    },
+    {
+      "id": "log_1795364054180_xm73i",
+      "action": "REFERRAL_SUCCESS",
+      "target": "batman",
+      "details": "@batman successfully referred @adhi (Milestone: 3 invites)",
+      "timestamp": 1795364054180
+    },
+    {
+      "id": "log_1795364054167_b42cn",
+      "action": "USER_JOIN",
+      "target": "adhi",
+      "details": "Registered device from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 158.0.0.0)",
+      "timestamp": 1795364054167
+    },
+    {
+      "id": "log_1795364035806_7q8fr",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364035806
+    },
+    {
+      "id": "log_1795364035782_6xiou",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364035782
+    },
+    {
+      "id": "log_1795364035674_auh2f",
+      "action": "USER_CONNECT",
+      "target": "arjun",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364035674
+    },
+    {
+      "id": "log_1795364033653_v7sth",
+      "action": "USER_CONNECT",
+      "target": "arjun",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364033653
+    },
+    {
+      "id": "log_1795364033573_zgp3r",
+      "action": "USER_CONNECT",
+      "target": "arjun",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364033573
+    },
+    {
+      "id": "log_1795364027008_3fuof",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364027008
+    },
+    {
+      "id": "log_1795364026954_8g9p0",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795364026954
+    },
+    {
+      "id": "log_1795364018170_4jba8",
+      "action": "REFERRAL_SUCCESS",
+      "target": "batman",
+      "details": "@batman successfully referred @arjun (Milestone: 2 invites)",
+      "timestamp": 1795364018170
+    },
+    {
+      "id": "log_1795364018164_nk3ti",
+      "action": "USER_JOIN",
+      "target": "arjun",
+      "details": "Registered device from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 158.0.0.0)",
+      "timestamp": 1795364018164
+    },
+    {
+      "id": "log_1795363998226_3reri",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795363998226
+    },
+    {
+      "id": "log_1795363998193_di5z0",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795363998193
+    },
+    {
+      "id": "log_1795363998030_4osgf",
+      "action": "USER_CONNECT",
+      "target": "athul",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795363998030
+    },
+    {
+      "id": "log_1795363997143_o9ymr",
+      "action": "USER_CONNECT",
+      "target": "athul",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795363997143
+    },
+    {
+      "id": "log_1795363997127_3e509",
+      "action": "USER_CONNECT",
+      "target": "athul",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795363997127
+    },
+    {
+      "id": "log_1795363997062_spg4a",
+      "action": "USER_CONNECT",
+      "target": "athul",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795363997062
+    },
+    {
+      "id": "log_1795363993946_bo1uw",
+      "action": "USER_CONNECT",
+      "target": "athul",
+      "details": "Connected from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 158.0.0.0)",
+      "timestamp": 1795363993946
+    },
+    {
+      "id": "log_1795363988938_jry4d",
+      "action": "USER_CONNECT",
+      "target": "athul",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795363988938
+    },
+    {
+      "id": "log_1795363988906_pi2io",
+      "action": "USER_CONNECT",
+      "target": "athul",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795363988906
+    },
+    {
+      "id": "log_1795363979099_p2dsx",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795363979099
+    },
+    {
+      "id": "log_1795363979026_hpai4",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795363979026
+    },
+    {
+      "id": "log_1795363975830_gn36j",
+      "action": "REFERRAL_SUCCESS",
+      "target": "batman",
+      "details": "@batman successfully referred @athul (Milestone: 1 invites)",
+      "timestamp": 1795363975830
+    },
+    {
+      "id": "log_1795363975818_32fkw",
+      "action": "USER_JOIN",
+      "target": "athul",
+      "details": "Registered device from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 158.0.0.0)",
+      "timestamp": 1795363975818
+    },
+    {
+      "id": "log_1795363903314_rxccx",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 158.0.0.0)",
+      "timestamp": 1795363903314
+    },
+    {
+      "id": "log_1795363903194_48xvp",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795363903194
+    },
+    {
+      "id": "log_1795363901781_cach9",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 158.0.0.0)",
+      "timestamp": 1795363901781
+    },
+    {
+      "id": "log_1795363901627_wlrym",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795363901627
+    },
+    {
+      "id": "log_1795363900421_zshu4",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795363900421
+    },
+    {
+      "id": "log_1795363900408_n6x15",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795363900408
+    },
+    {
+      "id": "log_1795363516466_6wgyz",
+      "action": "DELETE_CHAT_THREAD",
+      "target": "inviter_alpha_6147 ↔ partner_beta_6421",
+      "details": "Admin permanently cleared whole conversation (2 messages deleted). Users remain in friend list.",
+      "timestamp": 1795363516466
+    },
+    {
+      "id": "log_1795363516422_z7jlc",
+      "action": "USER_JOIN",
+      "target": "partner_beta_6421",
+      "details": "Registered device from IP: 127.0.0.1 (Windows · Desktop · Firefox)",
+      "timestamp": 1795363516422
+    },
+    {
+      "id": "log_1795363516393_kvnub",
+      "action": "REFERRAL_SUCCESS",
+      "target": "inviter_alpha_6147",
+      "details": "@inviter_alpha_6147 successfully referred @ref_gold_9_6390 (Milestone: 9 invites)",
+      "timestamp": 1795363516393
+    },
+    {
+      "id": "log_1795363516391_tfm45",
+      "action": "USER_JOIN",
+      "target": "ref_gold_9_6390",
+      "details": "Registered device from IP: 127.0.0.1 (Windows · Desktop · Chrome)",
+      "timestamp": 1795363516391
+    },
+    {
+      "id": "log_1795363516360_ei1d0",
+      "action": "REFERRAL_SUCCESS",
+      "target": "inviter_alpha_6147",
+      "details": "@inviter_alpha_6147 successfully referred @ref_gold_8_6357 (Milestone: 8 invites)",
+      "timestamp": 1795363516360
+    },
+    {
+      "id": "log_1795363516358_0188h",
+      "action": "USER_JOIN",
+      "target": "ref_gold_8_6357",
+      "details": "Registered device from IP: 127.0.0.1 (Windows · Desktop · Chrome)",
+      "timestamp": 1795363516358
+    },
+    {
+      "id": "log_1795363516344_wsoit",
+      "action": "REFERRAL_SUCCESS",
+      "target": "inviter_alpha_6147",
+      "details": "@inviter_alpha_6147 successfully referred @ref_gold_7_6342 (Milestone: 7 invites)",
+      "timestamp": 1795363516344
+    },
+    {
+      "id": "log_1795363516342_ftpnd",
+      "action": "USER_JOIN",
+      "target": "ref_gold_7_6342",
+      "details": "Registered device from IP: 127.0.0.1 (Windows · Desktop · Chrome)",
+      "timestamp": 1795363516342
+    },
+    {
+      "id": "log_1795363516322_kcnji",
+      "action": "REFERRAL_SUCCESS",
+      "target": "inviter_alpha_6147",
+      "details": "@inviter_alpha_6147 successfully referred @ref_silver_6_6319 (Milestone: 6 invites)",
+      "timestamp": 1795363516322
+    },
+    {
+      "id": "log_1795363516319_6qfb0",
+      "action": "USER_JOIN",
+      "target": "ref_silver_6_6319",
+      "details": "Registered device from IP: 127.0.0.1 (Windows · Desktop · Chrome)",
+      "timestamp": 1795363516319
+    },
+    {
+      "id": "log_1795363516301_kjbjq",
+      "action": "REFERRAL_SUCCESS",
+      "target": "inviter_alpha_6147",
+      "details": "@inviter_alpha_6147 successfully referred @ref_silver_5_6298 (Milestone: 5 invites)",
+      "timestamp": 1795363516301
+    },
+    {
+      "id": "log_1795363516299_163sa",
+      "action": "USER_JOIN",
+      "target": "ref_silver_5_6298",
+      "details": "Registered device from IP: 127.0.0.1 (Windows · Desktop · Chrome)",
+      "timestamp": 1795363516299
+    },
+    {
+      "id": "log_1795363516280_616bb",
+      "action": "REFERRAL_SUCCESS",
+      "target": "inviter_alpha_6147",
+      "details": "@inviter_alpha_6147 successfully referred @ref_silver_4_6278 (Milestone: 4 invites)",
+      "timestamp": 1795363516280
+    },
+    {
+      "id": "log_1795363516278_frxic",
+      "action": "USER_JOIN",
+      "target": "ref_silver_4_6278",
+      "details": "Registered device from IP: 127.0.0.1 (Windows · Desktop · Chrome)",
+      "timestamp": 1795363516278
+    },
+    {
+      "id": "log_1795363516261_qig50",
+      "action": "REFERRAL_SUCCESS",
+      "target": "inviter_alpha_6147",
+      "details": "@inviter_alpha_6147 successfully referred @ref_bronze_3_6258 (Milestone: 3 invites)",
+      "timestamp": 1795363516261
+    },
+    {
+      "id": "log_1795363516259_f6tm0",
+      "action": "USER_JOIN",
+      "target": "ref_bronze_3_6258",
+      "details": "Registered device from IP: 127.0.0.1 (Windows · Desktop · Chrome)",
+      "timestamp": 1795363516259
+    },
+    {
+      "id": "log_1795363516208_lvgk3",
+      "action": "REFERRAL_SUCCESS",
+      "target": "inviter_alpha_6147",
+      "details": "@inviter_alpha_6147 successfully referred @ref_bronze_2_6203 (Milestone: 2 invites)",
+      "timestamp": 1795363516208
+    },
+    {
+      "id": "log_1795363516205_o50a7",
+      "action": "USER_JOIN",
+      "target": "ref_bronze_2_6203",
+      "details": "Registered device from IP: 127.0.0.1 (Windows · Desktop · Chrome)",
+      "timestamp": 1795363516205
+    },
+    {
+      "id": "log_1795363516184_rr2y1",
+      "action": "REFERRAL_SUCCESS",
+      "target": "inviter_alpha_6147",
+      "details": "@inviter_alpha_6147 successfully referred @ref_bronze_1_6179 (Milestone: 1 invites)",
+      "timestamp": 1795363516184
+    },
+    {
+      "id": "log_1795363516179_v4pn4",
+      "action": "USER_JOIN",
+      "target": "ref_bronze_1_6179",
+      "details": "Registered device from IP: 127.0.0.1 (Windows · Desktop · Chrome)",
+      "timestamp": 1795363516179
+    },
+    {
+      "id": "log_1795363516148_zhm1d",
+      "action": "USER_JOIN",
+      "target": "inviter_alpha_6147",
+      "details": "Registered device from IP: 127.0.0.1 (Windows · Desktop · Chrome)",
+      "timestamp": 1795363516148
+    },
+    {
+      "id": "log_1795363414901_9g29p",
+      "action": "USER_JOIN",
+      "target": "partner_beta_4901",
+      "details": "Registered device from IP: 127.0.0.1 (Windows · Desktop · Firefox)",
+      "timestamp": 1795363414901
+    },
+    {
+      "id": "log_1795363414879_nzd72",
+      "action": "REFERRAL_SUCCESS",
+      "target": "inviter_alpha_4613",
+      "details": "@inviter_alpha_4613 successfully referred @ref_gold_9_4876 (Milestone: 9 invites)",
+      "timestamp": 1795363414879
+    },
+    {
+      "id": "log_1795363414877_jazpj",
+      "action": "USER_JOIN",
+      "target": "ref_gold_9_4876",
+      "details": "Registered device from IP: 127.0.0.1 (Windows · Desktop · Chrome)",
+      "timestamp": 1795363414877
+    },
+    {
+      "id": "log_1795363414847_5x24m",
+      "action": "REFERRAL_SUCCESS",
+      "target": "inviter_alpha_4613",
+      "details": "@inviter_alpha_4613 successfully referred @ref_gold_8_4843 (Milestone: 8 invites)",
+      "timestamp": 1795363414847
+    },
+    {
+      "id": "log_1795363414844_p1hen",
+      "action": "USER_JOIN",
+      "target": "ref_gold_8_4843",
+      "details": "Registered device from IP: 127.0.0.1 (Windows · Desktop · Chrome)",
+      "timestamp": 1795363414844
+    },
+    {
+      "id": "log_1795363414829_jbzvf",
+      "action": "REFERRAL_SUCCESS",
+      "target": "inviter_alpha_4613",
+      "details": "@inviter_alpha_4613 successfully referred @ref_gold_7_4827 (Milestone: 7 invites)",
+      "timestamp": 1795363414829
+    },
+    {
+      "id": "log_1795363414827_8rt22",
+      "action": "USER_JOIN",
+      "target": "ref_gold_7_4827",
+      "details": "Registered device from IP: 127.0.0.1 (Windows · Desktop · Chrome)",
+      "timestamp": 1795363414827
+    },
+    {
+      "id": "log_1795363414805_4gwkl",
+      "action": "REFERRAL_SUCCESS",
+      "target": "inviter_alpha_4613",
+      "details": "@inviter_alpha_4613 successfully referred @ref_silver_6_4803 (Milestone: 6 invites)",
+      "timestamp": 1795363414805
+    },
+    {
+      "id": "log_1795363414803_o1bbj",
+      "action": "USER_JOIN",
+      "target": "ref_silver_6_4803",
+      "details": "Registered device from IP: 127.0.0.1 (Windows · Desktop · Chrome)",
+      "timestamp": 1795363414803
+    },
+    {
+      "id": "log_1795363414784_qwd7m",
+      "action": "REFERRAL_SUCCESS",
+      "target": "inviter_alpha_4613",
+      "details": "@inviter_alpha_4613 successfully referred @ref_silver_5_4781 (Milestone: 5 invites)",
+      "timestamp": 1795363414784
+    },
+    {
+      "id": "log_1795363414781_myq4u",
+      "action": "USER_JOIN",
+      "target": "ref_silver_5_4781",
+      "details": "Registered device from IP: 127.0.0.1 (Windows · Desktop · Chrome)",
+      "timestamp": 1795363414781
+    },
+    {
+      "id": "log_1795363414729_4pr1x",
+      "action": "REFERRAL_SUCCESS",
+      "target": "inviter_alpha_4613",
+      "details": "@inviter_alpha_4613 successfully referred @ref_silver_4_4722 (Milestone: 4 invites)",
+      "timestamp": 1795363414729
+    },
+    {
+      "id": "log_1795363414726_gmeww",
+      "action": "USER_JOIN",
+      "target": "ref_silver_4_4722",
+      "details": "Registered device from IP: 127.0.0.1 (Windows · Desktop · Chrome)",
+      "timestamp": 1795363414726
+    },
+    {
+      "id": "log_1795363414704_fok66",
+      "action": "REFERRAL_SUCCESS",
+      "target": "inviter_alpha_4613",
+      "details": "@inviter_alpha_4613 successfully referred @ref_bronze_3_4702 (Milestone: 3 invites)",
+      "timestamp": 1795363414704
+    },
+    {
+      "id": "log_1795363414702_4z9ol",
+      "action": "USER_JOIN",
+      "target": "ref_bronze_3_4702",
+      "details": "Registered device from IP: 127.0.0.1 (Windows · Desktop · Chrome)",
+      "timestamp": 1795363414702
+    },
+    {
+      "id": "log_1795363414671_xw1i0",
+      "action": "REFERRAL_SUCCESS",
+      "target": "inviter_alpha_4613",
+      "details": "@inviter_alpha_4613 successfully referred @ref_bronze_2_4666 (Milestone: 2 invites)",
+      "timestamp": 1795363414671
+    },
+    {
+      "id": "log_1795363414669_jj16y",
+      "action": "USER_JOIN",
+      "target": "ref_bronze_2_4666",
+      "details": "Registered device from IP: 127.0.0.1 (Windows · Desktop · Chrome)",
+      "timestamp": 1795363414669
+    },
+    {
+      "id": "log_1795363414646_ck9y3",
+      "action": "REFERRAL_SUCCESS",
+      "target": "inviter_alpha_4613",
+      "details": "@inviter_alpha_4613 successfully referred @ref_bronze_1_4640 (Milestone: 1 invites)",
+      "timestamp": 1795363414646
+    },
+    {
+      "id": "log_1795363414641_j79nk",
+      "action": "USER_JOIN",
+      "target": "ref_bronze_1_4640",
+      "details": "Registered device from IP: 127.0.0.1 (Windows · Desktop · Chrome)",
+      "timestamp": 1795363414641
+    },
+    {
+      "id": "log_1795363414613_5xm8g",
+      "action": "USER_JOIN",
+      "target": "inviter_alpha_4613",
+      "details": "Registered device from IP: 127.0.0.1 (Windows · Desktop · Chrome)",
+      "timestamp": 1795363414613
+    },
+    {
+      "id": "log_1795363073812_qe6x8",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795363073812
+    },
+    {
+      "id": "log_1795363073713_0c14z",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795363073713
+    },
+    {
+      "id": "log_1795363061744_s4hpq",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 158.0.0.0)",
+      "timestamp": 1795363061744
+    },
+    {
+      "id": "log_1795363061592_qx6o9",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795363061592
+    },
+    {
+      "id": "log_1795363056219_pxpz9",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795363056219
+    },
+    {
+      "id": "log_1795363056194_lrae1",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795363056194
+    },
+    {
+      "id": "log_1795362223064_7afft",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 10.52.159.215 (Android 10 · mobile · Chrome 157)",
+      "timestamp": 1795362223064
+    },
+    {
+      "id": "log_1795362223013_40qvn",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 10.52.159.215 (Android 10 · mobile · Chrome 157)",
+      "timestamp": 1795362223013
+    },
+    {
+      "id": "log_1795362040697_8pziy",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795362040697
+    },
+    {
+      "id": "log_1795362040684_uj8x4",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795362040684
+    },
+    {
+      "id": "log_1795361947184_jhlnt",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795361947184
+    },
+    {
+      "id": "log_1795361947166_wbfig",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795361947166
+    },
+    {
+      "id": "log_1795361938181_rpyug",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795361938181
+    },
+    {
+      "id": "log_1795361932327_93oi9",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795361932327
+    },
+    {
+      "id": "log_1795361932304_5qn5v",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795361932304
+    },
+    {
+      "id": "log_1795361921556_adkv2",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795361921556
+    },
+    {
+      "id": "log_1795361914977_5ojq3",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795361914977
+    },
+    {
+      "id": "log_1795361872617_llvtv",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 10.52.159.215 (Android 10 · mobile · Chrome 157)",
+      "timestamp": 1795361872617
+    },
+    {
+      "id": "log_1795361872552_bowq6",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 10.52.159.215 (Android 10 · mobile · Chrome 157)",
+      "timestamp": 1795361872552
+    },
+    {
+      "id": "log_1795361864658_tl0kk",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795361864658
+    },
+    {
+      "id": "log_1795361864550_574bb",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795361864550
+    },
+    {
+      "id": "log_1795361412023_8njb6",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795361412023
+    },
+    {
+      "id": "log_1795361353113_1jlim",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795361353113
+    },
+    {
+      "id": "log_1795361346466_wq73o",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795361346466
+    },
+    {
+      "id": "log_1795361120559_228aj",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795361120559
+    },
+    {
+      "id": "log_1795361033212_usqm7",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 158.0.0.0)",
+      "timestamp": 1795361033212
+    },
+    {
+      "id": "log_1795361033002_0b9kf",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795361033002
+    },
+    {
+      "id": "log_1795361026409_jwlk2",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795361026409
+    },
+    {
+      "id": "log_1795361026399_u32wk",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 10 · desktop · Chrome 158)",
+      "timestamp": 1795361026399
+    },
+    {
+      "id": "log_1795361026394_yjoar",
+      "action": "USER_CONNECT",
+      "target": "batman",
+      "details": "Connected from IP: 127.0.0.1 (Windows 11 · PC/Mac · Chrome 158.0.0.0)",
+      "timestamp": 1795361026394
+    },
+    {
+      "id": "log_1795360810599_38npa",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 10.52.159.215 (Android 10 · mobile · Chrome 157)",
+      "timestamp": 1795360810599
+    },
+    {
+      "id": "log_1795360810584_l5gbx",
+      "action": "USER_CONNECT",
+      "target": "Bob",
+      "details": "Connected from IP: 10.52.159.215 (Android 10 · mobile · Chrome 157)",
+      "timestamp": 1795360810584
+    }
+  ],
+  "feedback": [
+    {
+      "id": "fb_1794583285890_0r947",
+      "sender": "batman",
+      "type": "Safety Concern",
+      "message": "iuhiuh",
+      "timestamp": 1794583285890
+    }
+  ],
+  "blocks": {
+    "hvy": [],
+    "bob": []
+  }
+}

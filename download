@@ -1,0 +1,30 @@
+# Node dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Production builds
+client/dist/
+dist/
+
+# Environment and sensitive keys
+.env
+.env.local
+.env.*.local
+
+# Database persistent runtime store
+server/store.json
+*.tmp
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Archives & Temporary staging
+*.zip
+stage_zip/
+.system_generated/

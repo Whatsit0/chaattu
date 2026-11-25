@@ -1,0 +1,466 @@
+/* ==========================================================================
+   CHAATTIKO THEME PACK: 5 Outfits, 4 Card Styles, 8 Patterns & Live Sync
+   ========================================================================== */
+
+/* ---------- 1. Linen & Streetwear (linen) ---------- */
+html[data-style="linen"] {
+  --page: #F3EBDD;
+  --paper: #FFFCF6;
+  --ink: #262421;
+  --panel: rgba(255, 252, 246, 0.86);
+  --panel2: rgba(226, 215, 195, 0.45);
+  --line: rgba(38, 36, 33, 0.16);
+  --input: rgba(255, 252, 246, 0.96);
+  --focus: #6F5B3E;
+  --ring: rgba(111, 91, 62, 0.28);
+  --cta: #6F5B3E;
+  --cta2: #4A3C28;
+  --me: #2F2C28;
+  --mefg: #FBF7EF;
+  --meb: rgba(38, 36, 33, 0.25);
+  --them: #E6DAC4;
+  --themfg: #262421;
+  --themb: rgba(38, 36, 33, 0.18);
+  --pat: 38 36 33;
+  --shadow-rgb: 62, 48, 30;
+  --font-display: 'Instrument Serif', Georgia, serif;
+  --font-ui: 'Manrope', -apple-system, sans-serif;
+  --display-style: italic;
+  --a-500: 111 91 62;
+  --b-500: 74 60 40;
+  --c-400: 175 145 105;
+}
+html.dark[data-style="linen"] {
+  --page: #1B1A18;
+  --paper: #2C2A27;
+  --ink: #F6EFE2;
+  --panel: rgba(44, 42, 39, 0.82);
+  --panel2: rgba(246, 239, 226, 0.06);
+  --line: rgba(246, 239, 226, 0.16);
+  --input: rgba(44, 42, 39, 0.92);
+  --focus: #D8C29A;
+  --ring: rgba(216, 194, 154, 0.30);
+  --cta: #6F5B3E;
+  --cta2: #4A3C28;
+  --me: #E7DCC7;
+  --mefg: #1F1E1C;
+  --meb: rgba(246, 239, 226, 0.22);
+  --them: #3A3733;
+  --themfg: #F6EFE2;
+  --themb: rgba(246, 239, 226, 0.15);
+  --pat: 246 239 226;
+  --shadow-rgb: 0, 0, 0;
+  --font-display: 'Instrument Serif', Georgia, serif;
+  --font-ui: 'Manrope', -apple-system, sans-serif;
+  --display-style: italic;
+  --a-500: 216 194 154;
+  --b-500: 175 145 105;
+  --c-400: 231 220 199;
+}
+
+/* ---------- 2. Knitwear & Flannel (knit) ---------- */
+html[data-style="knit"] {
+  --page: #F6EEDF;
+  --paper: #FFFAF0;
+  --ink: #3A2A22;
+  --panel: rgba(255, 250, 240, 0.88);
+  --panel2: rgba(214, 190, 150, 0.30);
+  --line: rgba(58, 42, 34, 0.18);
+  --input: rgba(255, 250, 240, 0.97);
+  --focus: #A9482F;
+  --ring: rgba(169, 72, 47, 0.28);
+  --cta: #B14E33;
+  --cta2: #8E3B26;
+  --me: #A9482F;
+  --mefg: #FFF7EA;
+  --meb: rgba(58, 42, 34, 0.25);
+  --them: #E7E1C8;
+  --themfg: #3A2A22;
+  --themb: rgba(58, 42, 34, 0.18);
+  --pat: 107 115 68;
+  --shadow-rgb: 90, 50, 30;
+  --font-display: 'Fraunces', Georgia, serif;
+  --font-ui: 'Nunito', -apple-system, sans-serif;
+  --display-style: italic;
+  --a-500: 169 72 47;
+  --b-500: 107 115 68;
+  --c-400: 214 150 90;
+}
+html.dark[data-style="knit"] {
+  --page: #211813;
+  --paper: #3A2B24;
+  --ink: #FBF1E0;
+  --panel: rgba(58, 43, 36, 0.84);
+  --panel2: rgba(251, 241, 224, 0.06);
+  --line: rgba(251, 241, 224, 0.16);
+  --input: rgba(58, 43, 36, 0.92);
+  --focus: #E3A483;
+  --ring: rgba(227, 164, 131, 0.30);
+  --cta: #B14E33;
+  --cta2: #8E3B26;
+  --me: #B14E33;
+  --mefg: #FFF7EA;
+  --meb: rgba(227, 164, 131, 0.25);
+  --them: #3D2F27;
+  --themfg: #FBF1E0;
+  --themb: rgba(251, 241, 224, 0.15);
+  --pat: 227 164 131;
+  --shadow-rgb: 0, 0, 0;
+  --font-display: 'Fraunces', Georgia, serif;
+  --font-ui: 'Nunito', -apple-system, sans-serif;
+  --display-style: italic;
+  --a-500: 227 164 131;
+  --b-500: 177 78 51;
+  --c-400: 245 180 140;
+}
+
+/* ---------- 3. Denim & Varsity (denim) ---------- */
+html[data-style="denim"] {
+  --page: #E3EAF3;
+  --paper: #FBFCFE;
+  --ink: #14213D;
+  --panel: rgba(251, 252, 254, 0.90);
+  --panel2: rgba(120, 146, 190, 0.20);
+  --line: rgba(20, 33, 61, 0.20);
+  --input: rgba(251, 252, 254, 0.97);
+  --focus: #1F3A6B;
+  --ring: rgba(31, 58, 107, 0.28);
+  --cta: #2F5496;
+  --cta2: #1F3A6B;
+  --me: #1F3A6B;
+  --mefg: #FFFFFF;
+  --meb: rgba(20, 33, 61, 0.28);
+  --them: #F3EAD3;
+  --themfg: #14213D;
+  --themb: rgba(20, 33, 61, 0.18);
+  --pat: 20 33 61;
+  --shadow-rgb: 20, 33, 61;
+  --font-display: 'Alfa Slab One', cursive, sans-serif;
+  --font-ui: 'Barlow', -apple-system, sans-serif;
+  --display-style: normal;
+  --a-500: 31 58 107;
+  --b-500: 47 84 150;
+  --c-400: 220 160 50;
+}
+html.dark[data-style="denim"] {
+  --page: #0E1A33;
+  --paper: #1B2B4D;
+  --ink: #EDF2FB;
+  --panel: rgba(27, 43, 77, 0.84);
+  --panel2: rgba(237, 242, 251, 0.06);
+  --line: rgba(237, 242, 251, 0.18);
+  --input: rgba(27, 43, 77, 0.92);
+  --focus: #8FB0EC;
+  --ring: rgba(143, 176, 236, 0.32);
+  --cta: #2F5496;
+  --cta2: #1F3A6B;
+  --me: #2F5496;
+  --mefg: #FFFFFF;
+  --meb: rgba(143, 176, 236, 0.30);
+  --them: #EADFC4;
+  --themfg: #12203D;
+  --themb: rgba(237, 242, 251, 0.15);
+  --pat: 143 176 236;
+  --shadow-rgb: 0, 0, 0;
+  --font-display: 'Alfa Slab One', cursive, sans-serif;
+  --font-ui: 'Barlow', -apple-system, sans-serif;
+  --display-style: normal;
+  --a-500: 143 176 236;
+  --b-500: 47 84 150;
+  --c-400: 240 180 70;
+}
+
+/* ---------- 4. Silk & Resort (silk) ---------- */
+html[data-style="silk"] {
+  --page: #F7F1F6;
+  --paper: #FFFDFE;
+  --ink: #2E2838;
+  --panel: rgba(255, 253, 254, 0.86);
+  --panel2: rgba(208, 190, 224, 0.28);
+  --line: rgba(46, 40, 56, 0.15);
+  --input: rgba(255, 253, 254, 0.97);
+  --focus: #6B4E8F;
+  --ring: rgba(107, 78, 143, 0.26);
+  --cta: #7B5CA3;
+  --cta2: #5B3F82;
+  --me: #6B4E8F;
+  --mefg: #FFFFFF;
+  --meb: rgba(46, 40, 56, 0.22);
+  --them: #DDEFE6;
+  --themfg: #2E2838;
+  --themb: rgba(46, 40, 56, 0.18);
+  --pat: 107 78 143;
+  --shadow-rgb: 80, 60, 110;
+  --font-display: 'Cormorant Garamond', Georgia, serif;
+  --font-ui: 'Jost', -apple-system, sans-serif;
+  --display-style: italic;
+  --a-100: 221 239 230;
+  --a-500: 107 78 143;
+  --b-400: 199 168 236;
+  --b-500: 123 92 163;
+  --c-400: 240 160 170;
+}
+html.dark[data-style="silk"] {
+  --page: #1B1625;
+  --paper: #2B2337;
+  --ink: #F6EFF7;
+  --panel: rgba(43, 35, 55, 0.84);
+  --panel2: rgba(246, 239, 247, 0.06);
+  --line: rgba(246, 239, 247, 0.16);
+  --input: rgba(43, 35, 55, 0.92);
+  --focus: #C7A8EC;
+  --ring: rgba(199, 168, 236, 0.30);
+  --cta: #7B5CA3;
+  --cta2: #5B3F82;
+  --me: #7B5CA3;
+  --mefg: #FFFFFF;
+  --meb: rgba(199, 168, 236, 0.25);
+  --them: #30283E;
+  --themfg: #F6EFF7;
+  --themb: rgba(246, 239, 247, 0.15);
+  --pat: 199 168 236;
+  --shadow-rgb: 0, 0, 0;
+  --font-display: 'Cormorant Garamond', Georgia, serif;
+  --font-ui: 'Jost', -apple-system, sans-serif;
+  --display-style: italic;
+  --a-500: 199 168 236;
+  --a-900: 35 25 45;
+  --b-400: 215 190 245;
+  --b-500: 123 92 163;
+  --c-400: 245 170 190;
+}
+
+/* ---------- 5. Avant-Garde Monogram (avant) ---------- */
+html[data-style="avant"] {
+  --page: #F1F1ED;
+  --paper: #FFFFFF;
+  --ink: #0E0E0E;
+  --panel: rgba(255, 255, 255, 0.94);
+  --panel2: rgba(14, 14, 14, 0.05);
+  --line: rgba(14, 14, 14, 0.55);
+  --input: #FFFFFF;
+  --focus: #D62027;
+  --ring: rgba(214, 32, 39, 0.30);
+  --cta: #D62027;
+  --cta2: #A8141B;
+  --me: #0E0E0E;
+  --mefg: #FFFFFF;
+  --meb: #0E0E0E;
+  --them: #FFFFFF;
+  --themfg: #0E0E0E;
+  --themb: rgba(14, 14, 14, 0.45);
+  --pat: 14 14 14;
+  --shadow-rgb: 14, 14, 14;
+  --font-display: 'Bodoni Moda', Georgia, serif;
+  --font-ui: 'Space Grotesk', -apple-system, sans-serif;
+  --display-style: italic;
+  --a-500: 214 32 39;
+  --b-500: 30 60 180;
+  --c-400: 250 200 40;
+}
+html.dark[data-style="avant"] {
+  --page: #0B0B0C;
+  --paper: #222224;
+  --ink: #F6F6F2;
+  --panel: rgba(23, 23, 26, 0.92);
+  --panel2: rgba(246, 246, 242, 0.06);
+  --line: rgba(246, 246, 242, 0.45);
+  --input: #17171A;
+  --focus: #FF5A5F;
+  --ring: rgba(255, 90, 95, 0.34);
+  --cta: #D62027;
+  --cta2: #A8141B;
+  --me: #F6F6F2;
+  --mefg: #0B0B0C;
+  --meb: #F6F6F2;
+  --them: #1B1B1E;
+  --themfg: #F6F6F2;
+  --themb: rgba(246, 246, 242, 0.35);
+  --pat: 246 246 242;
+  --shadow-rgb: 0, 0, 0;
+  --font-display: 'Bodoni Moda', Georgia, serif;
+  --font-ui: 'Space Grotesk', -apple-system, sans-serif;
+  --display-style: italic;
+  --a-500: 255 90 95;
+  --b-500: 50 100 220;
+  --c-400: 255 215 50;
+}
+
+/* ---------- 2. Background Patterns Layer ---------- */
+.theme-pattern {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  transition: opacity 0.4s ease;
+}
+
+html[data-pat="woven"] .theme-pattern {
+  background-image:
+    repeating-linear-gradient(0deg, rgb(var(--pat) / 0.075) 0 1px, transparent 1px 6px),
+    repeating-linear-gradient(90deg, rgb(var(--pat) / 0.075) 0 1px, transparent 1px 6px),
+    repeating-linear-gradient(0deg, rgb(var(--pat) / 0.05) 0 2px, transparent 2px 18px),
+    repeating-linear-gradient(90deg, rgb(var(--pat) / 0.05) 0 2px, transparent 2px 18px);
+}
+
+html[data-pat="stitch"] .theme-pattern {
+  background-image: linear-gradient(rgb(var(--pat) / 0.2) 1.5px, transparent 1.5px);
+  background-size: 100% 26px;
+  -webkit-mask-image: repeating-linear-gradient(90deg, #000 0 7px, transparent 7px 12px);
+  mask-image: repeating-linear-gradient(90deg, #000 0 7px, transparent 7px 12px);
+}
+
+html[data-pat="polka"] .theme-pattern {
+  background-image:
+    radial-gradient(circle at 12px 12px, rgb(var(--pat) / 0.11) 3px, transparent 3.5px),
+    radial-gradient(circle at 36px 36px, rgb(var(--pat) / 0.07) 2.2px, transparent 2.7px);
+  background-size: 48px 48px;
+}
+
+html[data-pat="check"] .theme-pattern {
+  background-image:
+    linear-gradient(90deg, rgb(var(--pat) / 0.06) 50%, transparent 50%),
+    linear-gradient(rgb(var(--pat) / 0.06) 50%, transparent 50%);
+  background-size: 34px 34px;
+}
+
+html[data-pat="plaid"] .theme-pattern {
+  background-image:
+    repeating-linear-gradient(90deg, rgb(var(--b-500) / 0.075) 0 16px, transparent 16px 96px),
+    repeating-linear-gradient(0deg, rgb(var(--b-500) / 0.075) 0 16px, transparent 16px 96px),
+    repeating-linear-gradient(90deg, transparent 0 40px, rgb(var(--a-500) / 0.09) 40px 52px, transparent 52px 96px),
+    repeating-linear-gradient(0deg, transparent 0 40px, rgb(var(--a-500) / 0.09) 40px 52px, transparent 52px 96px),
+    repeating-linear-gradient(90deg, rgb(var(--c-400) / 0.22) 0 1.5px, transparent 1.5px 96px);
+}
+
+html[data-pat="twill"] .theme-pattern {
+  background-image: repeating-linear-gradient(45deg, rgb(var(--pat) / 0.075) 0 1px, transparent 1px 5px);
+}
+
+html[data-pat="geo"] .theme-pattern {
+  background-image:
+    conic-gradient(from 45deg at 50% 50%, rgb(var(--pat) / 0.07) 0 25%, transparent 0 50%, rgb(var(--pat) / 0.07) 0 75%, transparent 0);
+  background-size: 56px 56px;
+}
+
+html[data-pat="none"] .theme-pattern {
+  background-image: none !important;
+}
+
+/* ---------- 3. Card Styles ---------- */
+html[data-style] .theme-styled-chat {
+  background-color: var(--page);
+  color: var(--ink);
+  transition: background-color 0.4s ease, color 0.4s ease;
+}
+
+/* Glass Card (Default) */
+html[data-style][data-card="glass"] .theme-card-surface,
+html[data-style][data-card="glass"] .glass-panel {
+  background: var(--panel) !important;
+  border: 1px solid var(--line) !important;
+  backdrop-filter: blur(22px) saturate(160%) !important;
+  -webkit-backdrop-filter: blur(22px) saturate(160%) !important;
+  box-shadow: 0 18px 44px -18px rgba(var(--shadow-rgb), 0.5), inset 0 1px 0 rgba(255, 255, 255, 0.25) !important;
+}
+
+/* Paper Card (Tactile grain) */
+html[data-style][data-card="paper"] .theme-card-surface,
+html[data-style][data-card="paper"] .glass-panel {
+  background-color: var(--paper) !important;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='180' height='180'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='2' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 .09 0'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>") !important;
+  backdrop-filter: none !important;
+  -webkit-backdrop-filter: none !important;
+  border: 1px solid var(--line) !important;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.5), 0 14px 28px -16px rgba(var(--shadow-rgb), 0.45), 0 2px 5px rgba(var(--shadow-rgb), 0.12) !important;
+}
+
+/* Stitched Card (Dashed seam line) */
+html[data-style][data-card="stitched"] .theme-card-surface,
+html[data-style][data-card="stitched"] .glass-panel {
+  background: var(--paper) !important;
+  backdrop-filter: none !important;
+  -webkit-backdrop-filter: none !important;
+  border: 1px solid var(--line) !important;
+  outline: 1.6px dashed rgb(var(--pat) / 0.45) !important;
+  outline-offset: -8px !important;
+  box-shadow: 0 14px 28px -16px rgba(var(--shadow-rgb), 0.45) !important;
+}
+
+/* Woven Card (Fabric weave & hemmed edge) */
+html[data-style][data-card="woven"] .theme-card-surface,
+html[data-style][data-card="woven"] .glass-panel {
+  background-color: var(--paper) !important;
+  background-image:
+    repeating-linear-gradient(0deg, rgb(var(--pat) / 0.06) 0 1px, transparent 1px 5px),
+    repeating-linear-gradient(90deg, rgb(var(--pat) / 0.06) 0 1px, transparent 1px 5px),
+    repeating-linear-gradient(0deg, rgb(var(--pat) / 0.04) 0 2px, transparent 2px 15px),
+    repeating-linear-gradient(90deg, rgb(var(--pat) / 0.04) 0 2px, transparent 2px 15px) !important;
+  backdrop-filter: none !important;
+  -webkit-backdrop-filter: none !important;
+  border: 1px solid var(--line) !important;
+  box-shadow: inset 0 0 0 5px var(--paper), inset 0 0 0 6px rgb(var(--pat) / 0.2), 0 14px 28px -16px rgba(var(--shadow-rgb), 0.45) !important;
+}
+
+/* ---------- 4. Message Bubble Overrides in Themed Mode ---------- */
+html[data-style] .themed-msg-me {
+  background: var(--me) !important;
+  color: var(--mefg) !important;
+  border: 1px solid var(--meb) !important;
+  box-shadow: 0 3px 10px -4px rgba(var(--shadow-rgb), 0.45) !important;
+}
+html[data-style] .themed-msg-them {
+  background: var(--them) !important;
+  color: var(--themfg) !important;
+  border: 1px solid var(--themb) !important;
+  box-shadow: 0 3px 10px -4px rgba(var(--shadow-rgb), 0.35) !important;
+}
+
+/* Outfit specific bubble textures */
+html[data-style="knit"] .themed-msg-me {
+  background-image:
+    repeating-linear-gradient(90deg, rgba(255, 255, 255, 0.08) 0 5px, transparent 5px 20px),
+    repeating-linear-gradient(0deg, rgba(255, 255, 255, 0.08) 0 5px, transparent 5px 20px) !important;
+}
+html[data-style="knit"] .themed-msg-them {
+  background-image:
+    repeating-linear-gradient(90deg, rgb(var(--a-500) / 0.14) 0 5px, transparent 5px 20px),
+    repeating-linear-gradient(0deg, rgb(var(--a-500) / 0.14) 0 5px, transparent 5px 20px) !important;
+}
+
+html[data-style="denim"] .themed-msg-me,
+html[data-style="denim"] .themed-msg-them {
+  outline: 1.4px dashed rgb(var(--c-400) / 0.85) !important;
+  outline-offset: -4px !important;
+}
+
+html[data-style="silk"] .themed-msg-me {
+  background-image: linear-gradient(135deg, var(--me), rgb(var(--b-400))) !important;
+}
+html[data-style="silk"] .themed-msg-them {
+  background-image: linear-gradient(135deg, var(--them), rgb(var(--a-100))) !important;
+}
+html.dark[data-style="silk"] .themed-msg-them {
+  background-image: linear-gradient(135deg, var(--them), rgb(var(--a-900))) !important;
+}
+
+html[data-style="avant"] .themed-msg-me,
+html[data-style="avant"] .themed-msg-them {
+  border-radius: 4px !important;
+  border-width: 1.5px !important;
+}
+html[data-style="avant"] .themed-msg-me {
+  box-shadow: 4px 4px 0 rgb(var(--a-500)) !important;
+}
+html[data-style="avant"] .themed-msg-them {
+  box-shadow: 4px 4px 0 var(--ink) !important;
+}
+
+/* Headline font style when themed */
+html[data-style] .theme-headline {
+  font-family: var(--font-display) !important;
+  font-style: var(--display-style) !important;
+}
+html[data-style] .theme-ui {
+  font-family: var(--font-ui) !important;
+}
